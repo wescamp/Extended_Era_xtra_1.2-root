@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2007-09-18 22:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:4 ./Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:4
+msgid "Drake Burner"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:19 ./Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:19
+msgid "Drake Burners are the few and the proud, who have inherited most truly the strengths of their remote ancestors, especially the ability to breathe fire. This, coupled with their sheer size and clawed hands makes for a dangerous foe in combat."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:4
+msgid "Drake Flameheart"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:28
+msgid ""
+"It is said that the eldest lines of drakes - the direct descendants of the dragons themselves, have veins which course with fire rather than blood. That they can breathe fire as they do lends credence to this belief, though, for some reason, no one has tried cutting one open to find out.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:4
+msgid "Drake Flare"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:27
+msgid ""
+"Drakes are an old race, wise enough to hearken to their own natural leaders. Those who are called 'flares' by their enemies are the drakes who aspire to be such leaders, both in war and in peace.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:4
+msgid "Elvish Captain"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:28
+msgid ""
+"Elves, unlike many other races, will quickly acknowledge and follow any of their peers who have experience in combat. This is quite at odds with humanity, for whom leadership is often a fickle mess of coercion and intimidation. The combination of their willingness to accept the wisdom of their leaders, and the tendency to choose leaders of merit is one of the quiet strengths of the elves.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:4
+msgid "Elvish Fighter"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:20
+msgid "Elves are not warlike by nature, but in times of need, their natural grace and agility serve them well, as does their skillful craftsmanship. An elf can grasp the basics of swordsmanship and archery in an uncannily short time, and put them to effective use on the battlefield."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:4
+msgid "Elvish Marshal"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:29
+msgid ""
+"The longevity and natural intelligence of elves makes for a vicious aptitude for military matters, enough even to counter their general distaste for such things. Elves remember things much more clearly than humankind, and can often intuit what others can only be trained to do. Certainly, on those rare occasions when an elf sets his mind to war, the strategy that results is the work of a master.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:4
+msgid "Death Knight"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:27
+msgid ""
+"Tales are told of the mightiest warriors and generals, who, cursed with hate and a sense of betrayal, came back to this world as Death Knights. Wielding the same weapons as they did before, they command the Undead in their quest for revenge.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:4 ./Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:4
+msgid "Revenant"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:19 ./Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:19
+msgid ""
+"Given false life to do battle once more, the creatures known as Revenants were clearly great warriors in their time, though the memory of that time is now long gone. Even the sorcerers who raised them can only speculate on their past. Such questions aside, a Revenant is a powerful tool in combat: a fearless warrior that feels no pain, and which will fight to the bitter end.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:4 ./Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:4
+msgid "Skeleton"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:20 ./Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:20
+msgid ""
+"Skeletons are warriors who have been slain in battle and brought back by dark magics. Nearly mindless, and unwavering in their purpose, they fear neither pain, nor death, and their mere presence will often frighten away any who would challenge their master.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:5
+msgid "Armageddon Drake"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:37
+msgid ""
+"The Armageddon Drakes truely are amongst the toughest of all drakes, they are so incredibly used to living near fire that they've grown to be \n"
+"practically immume to any fire based weapon to the point where a pillow is a more effecient weapon to use than a torch; Their armour is alot like a status symbol just like the armour of his weaker\n"
+"cousin the Inferno Drake, it is made out off extremely tough minerals and rocks at the bottom of magma rivers and gives them a slightly better defence against \n"
+"cold attacks than most other drakes."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:46
+msgid "claws"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:103
+msgid "fire breath"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:4
+msgid "Fire Drake"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:18
+msgid "The great fire drakes are masters of their internal fire. Clad in shining armor, they belch columns of flame at any who oppose them, a testament to the strength and majesty of their kind."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:4
+msgid "Inferno Drake"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:18
+msgid "The flying configurations known as Drake Infernos are the masters of the fire they breathe, and rival their predecessors the Dragons in their ability to use it. This natural ability renders them nearly immune to fire. Their shining, flame-colored armor is a mark of their proud and powerful caste, the ideal to which their brethren aspire."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:4
+msgid "Dwarvish Fighter"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:22
+msgid "Dwarvish Fighters wield mighty battle axes and hammers, which make them feared opponents in close range combat. They are excellent in mountainous terrain or underground. Though not swift, their power and endurance more than compensate."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:4
+msgid "Dwarvish Thunderer"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:18
+msgid "When the men of Wesnoth first encountered the dwarves, they were mystified by the power of the Dwarvish Thunderers, who were able to hurl death from afar through the apparatus of these strange ... 'wands' they carried into battle. After the peace instituted by the Ka'lian came into effect, Haldric's people, not understanding these weapons, and certainly unable to make any of their own, realized they were lucky to no longer be fighting the dwarves, and vowed never to do so again."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:4
+msgid "Goblin Rouser"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:28
+msgid ""
+"Standard bearers are an oddity amongst goblins. A goblin who has survived enough battles to be considered a veteran is rare enough, and it is rarer still for the other goblins to recognize and respect his veteran status. Nonetheless, a rouser's frenzied goading effectively steels the younger at arms to fight harder and longer before they die.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:4
+msgid "Goblin Spearman"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:20
+msgid ""
+"In any litter of orcs, several are born much smaller and weaker than the rest. These runts are called 'Goblins' and are looked down on by the rest of their kin. In battle, these are given the most meager of equipment, and are used as a shield to give the Warlords time to prepare the real assault.\n"
+"\n"
+"Some speculate that the existence of these creatures is the beginning of a failure of the orcish bloodline, though no one knows enough of their history to state anything conclusive."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:4
+msgid "Outlaw"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:18
+msgid "After some years of service, former 'footpads' rise up in the ranks of their fellow outlaws. Having proven themselves in combat, they are given more dangerous tasks, and a greater share of the spoils. Though many opponents would mock their choice of weaponry, the outlaws are well aware of its deadly capacity, and also of the ready availability of ammunition. Outlaws are somewhat ill at ease fighting during the day, preferring the cover of nightfall."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:114
+msgid "female^Outlaw"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:4
+msgid "Bandit"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:18
+msgid "Bandits are a motley collection of men, most of dubious background. They are the strong arm of any organized group of criminals, and though they may lack in finesse, or intelligence, they excel at their preferred task of pummeling victims into submission. Like any sort of outlaw, they're not comfortable fighting in broad daylight, being used to working at night."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:4
+msgid "Footpad"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:19
+msgid "These petty criminals are often derisively called 'footpads' by their superiors, for they are tasked with any job that requires a great deal of running around, often being employed as couriers, or scouts. The endurance and skill on their feet that comes of this serves them well in combat, and despite their pitiable weaponry, they are quite good at harrying their enemies, especially under cover of darkness."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:135
+msgid "female^Footpad"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:5
+msgid "Fugitive"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:26
+msgid "Veteran criminals become notorious among the authorities for both their battle prowess and ability to elude capture.  Dangerous and ruthless, they can be fearful in their element but no real match for professional law enforcment forces."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:38 ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:49
+msgid "mace"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:84
+msgid "sling"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:131
+msgid "female^Fugitive"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:134
+msgid "Veteran criminals become notorious among the authorities for both their battle prowess and ability to elude capture.  Beautiful and dangerous, their beauty is exceeded only by their dangerousness."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:5
+msgid "Highwayman"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:25
+msgid "Armed with heavy mace, Highwaymen are the last people you want to meet on a deserted road late at night."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:5
+msgid "Huntsman"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:25
+msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes.  They track anything that moves in their territory, including people.  Bandit gangs hire them for their ability to bring down any prey."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:45
+msgid "dagger"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:99 ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:92
+msgid "bow"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:4
+msgid "Poacher"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:20
+msgid "Poachers rely on their hunting experience and are most valuable at night and in forests and swamps."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:5
+msgid "Ranger"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:25
+msgid "Rangers are wild men and masters of forest and hills.  They are excellent trackers, scouts, and archers, moving freely through the countryside under the cover of night.  Most rulers are afraid of rangers and would rather put them in the dungeon than put their abilities to use."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:52
+msgid "sword"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:5
+msgid "Ruffian"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:19
+msgid "Some men without particular skills cannot or will not make an honest living. Those that attempt to make their way through life by the heavy end of a stick, are known as 'Ruffians'.  With enough experience they can learn to swing a bigger club or throw things, but not both."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:36
+msgid "club"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:4
+msgid "Thug"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:19
+msgid "Thugs come from a wide variety of sources; while a few are born into thuggery, many are former soldiers deemed unfit to serve in the army or peasants thrown off their lands. They quickly become thugs as a means of sustenance. Regardless of their background, they all share the practice of beating their victims with large clubs."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:4
+msgid "Trapper"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:19
+msgid "Trappers usually work supplying food for bandits and outlaws. Their hunting experience makes them most valuable at night and in forests and swamps."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:4
+msgid "Naga Fighter"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:21
+msgid "The serpentine naga are one of the few races capable of any meaningful mobility in water, giving them a whole world forbidden to land dwellers. Still, they are not true creatures of the sea, and their inability to breathe water leaves them in trepidation of the abyss. They are small, and somewhat frail in form, but often much more nimble than their opponents."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:71
+msgid "Nagini Fighter"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:4
+msgid "Orcish Leader"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:21
+msgid ""
+"Orcish Leaders are the chiefs of their tribe. They make the important decisions and lead their people into battle. They carry a bow out of necessity, but are much more skilled with the sword; all in all, they are powerful fighters. Their natural leadership skills make them very precious in battle: if the Leader is lost, so is the battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:4
+msgid "Orcish Ruler"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:20
+msgid ""
+"Orcish Rulers are the chiefs of their tribe. They make the important decisions and lead their people into battle. They carry a bow out of necessity, but are much more skilled with the sword; all in all, they are powerful fighters. Their natural leadership skills make them very precious in battle: if the Ruler is lost, so is the battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:4
+msgid "Orcish Sovereign"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:21
+msgid ""
+"Orcish Sovereigns are the chiefs of their tribe. They make the important decisions and lead their people into battle. They carry a bow out of necessity, but are much more skilled with the sword; all in all, they are powerful fighters. Their natural leadership skills make them very precious in battle: if the Sovereign is lost, so is the battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:4
+msgid "Troll Whelp"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:21
+msgid ""
+"Describing a troll as a whelp is something of an oxymoron, given that their bodies are already much hardier than that of a grown man. They are clumsy and not yet capable of walking properly, forced instead to shamble about on all fours, but any inhibition this causes them is more than made up for by the raw strength of their race.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:5
+msgid "Dark Adept"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:24
+msgid ""
+"To attract any practitioners, the lure of black magic must be a great prize indeed, for anyone caught practicing the art in the civilized world is subject to a death sentence. And yet there are those who pursue this art, for the prize offered is nothing less than immortality. Hidden away in secret cults, or initiated into the dark orders of the underworld, the training which these fanatics must endure often drives them to exhaustion and enfeeblement.\n"
+"\n"
+"In such condition, their only weapon is the craft they have so committed themselves to learning.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:172
+msgid "female^Dark Adept"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:4
+msgid "Dark Sorcerer"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:21
+msgid ""
+"The dread inspired by black magic comes chiefly from how little is known about it by the common man. Dark sorcerers have begun to unlock the secrets of life and death, quickly becoming masters of inflicting pain and anguish.\n"
+"\n"
+"The ultimate prize of the dark arts is complete domination of death and life. Dark Sorcerers may eventually learn how to manipulate life and death by reanimating corpses, skeletons, and spirits. The most corrupt and power-hungry will attempt to completely conquer death through the transformation to lichdom and attainment of a dreadful immortality.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:4
+msgid "Lich"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:21
+msgid ""
+"A lich is the physical embodiment of black magic's first goal: the quest to achieve immortality. Though a great deal is sacrificed in the rebirth, in becoming a lich one cheats death of that which truly gives it terror. For it is the mind that is retained, and the spirit which follows, though the body may wither away.\n"
+"\n"
+"It is not known, save perhaps by the inner circles of necromancy, whether life is prolonged indefinitely or simply extended. But to even consider such a thing bears tribute to the magnitude of what they have already achieved.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:4
+msgid "Chocobone"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:20
+msgid "Riding the bones of ostrich-like large birds once used as mounts by a lost civilization, the skeletal Chocobones can move faster than most cavalry units."
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Wose.cfg:4
+msgid "Wose"
+msgstr ""
+
+#: ./Extended_Era_xtra_1.2/units/standard/Wose.cfg:22
+msgid ""
+"Rarely seen, even by elves, a Wose is an order of creature about which little is known. The elves are the source of most of this knowledge; they know that these beings are not descended from trees, despite the similarity in form, and they know that a wose is more closely tied to the faerie world than the elves themselves, though in a different way. The motives and workings of their kind are unknown, though most posit the obvious idea that woses are wardens of the natural world.\n"
+"\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, however, neither used to, nor quick at moving around.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+

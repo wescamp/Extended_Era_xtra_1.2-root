@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-06-17 19:51+0200\n"
+"POT-Creation-Date: 2007-09-18 22:55+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,2168 +11,145 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Extended_Era/abilities/allied_leadership.cfg:10
-#: Extended_Era/abilities/allied_leadership.cfg:31
-#: Extended_Era/abilities/allied_leadership.cfg:65
-#: Extended_Era/abilities/allied_leadership.cfg:112
-#: Extended_Era/abilities/allied_leadership.cfg:172
-msgid "allied leadership"
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:4
+#: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:4
+msgid "Drake Burner"
 msgstr ""
 
-#: Extended_Era/abilities/allied_leadership.cfg:14
-#: Extended_Era/abilities/allied_leadership.cfg:35
-#: Extended_Era/abilities/allied_leadership.cfg:69
-#: Extended_Era/abilities/allied_leadership.cfg:116
-#: Extended_Era/abilities/allied_leadership.cfg:176
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:19
+#: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:19
 msgid ""
-"Allied Leadership:\n"
-"This unit can lead friendly units that are next to it, making them fight "
-"better.\n"
-"\n"
-"Adjacent friendly units of lower level will do more damage in battle. When a "
-"unit adjacent to, of a lower level than, and allied to a unit with Allied "
-"Leadership engages in combat, its attacks do 25% more damage times the "
-"difference in their levels."
+"Drake Burners are the few and the proud, who have inherited most truly the "
+"strengths of their remote ancestors, especially the ability to breathe fire. "
+"This, coupled with their sheer size and clawed hands makes for a dangerous "
+"foe in combat."
 msgstr ""
 
-#: Extended_Era/abilities/allied_protection.cfg:11
-msgid "allied protection"
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:4
+msgid "Drake Flameheart"
 msgstr ""
 
-#: Extended_Era/abilities/allied_protection.cfg:13
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:28
 msgid ""
-"Allied Protection:\n"
-"Adjacent friendly units receive a +20% bonus to all resistances (up to a "
-"maximum of 50%)."
-msgstr ""
-
-#: Extended_Era/abilities/attack_only.cfg:8
-msgid "attack only"
-msgstr ""
-
-#: Extended_Era/abilities/attack_only.cfg:10
-msgid ""
-"Attack only:\n"
-"This weapon will never be used on defense."
-msgstr ""
-
-#: Extended_Era/abilities/cavestalk.cfg:5
-#: Extended_Era/abilities/cavestalk.cfg:10
-msgid "cavestalk"
-msgstr ""
-
-#: Extended_Era/abilities/cavestalk.cfg:9
-#: Extended_Era/abilities/cavestalk.cfg:14
-msgid ""
-"Cavestalk:\n"
-"This unit can hide in caves, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see or attack this unit when it is in caves, except for "
-"any turn immediately after this unit has attacked, or if there are enemy "
-"units next to this unit."
-msgstr ""
-
-#: Extended_Era/abilities/defend_only.cfg:8
-msgid "defend only"
-msgstr ""
-
-#: Extended_Era/abilities/defend_only.cfg:10
-msgid ""
-"Defend only:\n"
-"This weapon will only be available for defense."
-msgstr ""
-
-#: Extended_Era/abilities/dread.cfg:6 Extended_Era/abilities/dread.cfg:7
-#, fuzzy
-msgid "dread"
-msgstr "Epäkuolleet"
-
-#: Extended_Era/abilities/dread.cfg:9 Extended_Era/abilities/dread.cfg:11
-msgid ""
-"Dread: \n"
-"When this attack is used offensively, this unit takes one third less damage "
-"in retaliation."
-msgstr ""
-
-#: Extended_Era/abilities/protection.cfg:9
-msgid "protection"
-msgstr ""
-
-#: Extended_Era/abilities/protection.cfg:11
-msgid ""
-"Protection:\n"
-"Adjacent units of this side receive a +20% bonus to all resistances (up to a "
-"maximum of 50%)."
-msgstr ""
-
-#: Extended_Era/abilities/sylvan_spark.cfg:10
-#: Extended_Era/abilities/sylvan_spark.cfg:13
-msgid "sylvan spark"
-msgstr ""
-
-#: Extended_Era/abilities/sylvan_spark.cfg:12
-#: Extended_Era/abilities/sylvan_spark.cfg:15
-msgid ""
-"Sylvan Spark:\n"
-"While in the forest (or mushroom grove), the unit will heal itself 5 hp per "
-"turn. If it is poisoned, it will remove the poison instead of healing."
-msgstr ""
-
-#: Extended_Era/abilities/terror.cfg:8 Extended_Era/abilities/terror.cfg:44
-#: Extended_Era/abilities/terror.cfg:94
-msgid "terror"
-msgstr ""
-
-#: Extended_Era/abilities/terror.cfg:12 Extended_Era/abilities/terror.cfg:48
-#: Extended_Era/abilities/terror.cfg:98
-msgid ""
-"Terror:\n"
-"This unit can frighten enemy units that are next to it, making them fight "
-"worse.\n"
-"\n"
-"Adjacent enemy units of lower level will do less damage in battle. When a "
-"unit adjacent to, of the same level, or a lower level than, and is an enemy "
-"of the unit with Terror engages in combat, its attacks do 15% less damage "
-"times the difference in their levels + 15%."
-msgstr ""
-
-#: Extended_Era/eras/extended.cfg:6
-msgid "Extended Era"
-msgstr ""
-
-#: Extended_Era/eras/kalifa.cfg:6
-msgid "Kalifa Era"
-msgstr ""
-
-#: Extended_Era/eras/steppe.cfg:6
-msgid "Steppe Era"
-msgstr ""
-
-#: Extended_Era/eras/xrpg.cfg:6
-msgid "Extended RPG"
-msgstr ""
-
-#: Extended_Era/factions/aragwaithi-extended.cfg:5
-#: Extended_Era/factions/aragwaithi-xrpg.cfg:5
-msgid "Aragwaith"
-msgstr ""
-
-#: Extended_Era/factions/chaos-extended.cfg:5
-#: Extended_Era/factions/chaos-xrpg.cfg:5
-msgid "Chaos"
-msgstr ""
-
-#: Extended_Era/factions/dark_elves-extended.cfg:5
-#: Extended_Era/factions/dark_elves-xrpg.cfg:5
-msgid "Dark Elves"
-msgstr ""
-
-#: Extended_Era/factions/drakes-extended.cfg:5
-#: Extended_Era/factions/drakes-xrpg.cfg:5
-msgid "Drakes"
-msgstr "Draakit"
-
-#: Extended_Era/factions/dwarves-xrpg.cfg:5
-#: Extended_Era/factions/dwarves-extended.cfg:5
-msgid "Dwarves"
-msgstr ""
-
-#: Extended_Era/factions/elves-xrpg.cfg:5
-#: Extended_Era/factions/elves-extended.cfg:5
-msgid "Wood Elves"
-msgstr ""
-
-#: Extended_Era/factions/kalifa-xrpg.cfg:5
-#: Extended_Era/factions/kalifa-extended.cfg:5
-msgid "Kalifa"
-msgstr ""
-
-#: Extended_Era/factions/loyalists-extended.cfg:5
-#: Extended_Era/factions/loyalists-xrpg.cfg:5
-msgid "Loyalists"
-msgstr "Uskolliset"
-
-#: Extended_Era/factions/merfolk-xrpg.cfg:5
-msgid "Merfolk"
-msgstr ""
-
-#: Extended_Era/factions/misc-xrpg.cfg:5
-msgid "Miscellanous"
-msgstr ""
-
-#: Extended_Era/factions/nagas-xrpg.cfg:5
-#, fuzzy
-msgid "Nagas"
-msgstr "torahampaat"
-
-#: Extended_Era/factions/northerners-extended.cfg:5
-#: Extended_Era/factions/northerners-xrpg.cfg:5
-msgid "Northerners"
-msgstr "Pohjalaiset"
-
-#: Extended_Era/factions/outlaws-extended.cfg:5
-#: Extended_Era/factions/outlaws-xrpg.cfg:5
-msgid "Outlaws"
-msgstr ""
-
-#: Extended_Era/factions/sidhe-xrpg.cfg:5
-#: Extended_Era/factions/sidhe-extended.cfg:5
-msgid "Sidhe Elves"
-msgstr ""
-
-#: Extended_Era/factions/steppe_orcs-extended.cfg:5
-#: Extended_Era/factions/steppe_orcs-xrpg.cfg:5
-msgid "Steppe Orcs"
-msgstr ""
-
-#: Extended_Era/factions/undead-xrpg.cfg:5
-#: Extended_Era/factions/undead-extended.cfg:5
-msgid "Undead"
-msgstr "Epäkuolleet"
-
-#: Extended_Era/races/chaos.cfg:7
-msgid ""
-"Abalam,Abbadon,Abigor,Adramalech,Agaliarept,Agares,Aim,Akvan,Aldebaran,"
-"Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
-"Andromalius,Antares,Apep,Araqiel,Arioch,Armaros,Asael,Asag,Asb'el,Asmodeus,"
-"Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,"
-"Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,"
-"Belial,Beliel,Belphegore,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,"
-"Botis,Buer,Bune,Caim,Camal,Carniveau,Cerberus,Chamos,Chazaqiel,Corson,"
-"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Demogorgon,Dumah,Eligos,"
-"Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,"
-"Furfur,Gaap,Gader'el,Glasya-Labolas,Gusion,Haagenti,Humbaba,Iblis,Ipos,Jutas,"
-"Juvart,Kabhanda,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Legion,Lempo,"
-"Leonard,Leraje,Lix Tetrax,Lucifer,Lucifuge Rofocale,Malphas,Malthus,Mammon,"
-"Marchocias,Maricha,Mastema,Melchom,Mephisto,Mephistopholes,Mesphito,Merihim,"
-"Moloch,Morax,Mulciber,Murmur,Naberius,Nebiros,Neqa'el,Nergal,Nisroch,Oeillet,"
-"Olivier,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
-"Phlegathon,Phenex,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,"
-"Pyhton,Rahab,Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,"
-"Ronove,Ronwe,Rosier,Sabnock,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,"
-"Satanachia,Satariel,Seir,Shaitan,Shamsiel,Shax,Shezmu,Sidragasum,Sitri,"
-"Sonnillon,Soufflet,Stolas,Surgat,Tabaet,Tamiel,Tannin,Teeraal,Temeluchus,"
-"Thammuz,Turiel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xaphan,"
-"Yeqon,Yeter'el,Yomiel,Zagan,Zaqiel,Zepar"
-msgstr ""
-
-#: Extended_Era/races/chaos.cfg:8
-msgid ""
-"Agiel,Agrat-bat-mahlaht,Ammit,Amy,Arkel,Ashtaroth,Astarte,Astoreth,Barbelo,"
-"Bruja,Delepitore,Eisheth Zenunil,Empusa,Euryale,Gordh,Gremory,Gresil,Hecate,"
-"Kindite,Lamashtu,Lamia,Leviathan,Lilim,Lilin,Lilith,Lilitu,Mara,Medusa,"
-"Melchiresa,Melusine,Naamah,Neuralger,Onoskelis,Prosperpine,Rangda,Rusalka,"
-"Satana,Sheol,Selene,Sonnielion,Stheno,Sycorax,Taweret,Tzitzimime,Unsere,Uzza,"
-"Verrier,Vepar"
-msgstr ""
-
-#: Extended_Era/races/dwarves.cfg:7
-msgid "armored"
-msgstr ""
-
-#: Extended_Era/races/dwarves.cfg:8
-msgid "(+15% to all resistances, -1 movement)"
-msgstr ""
-
-#: Extended_Era/races/kailfa.cfg:7 Extended_Era/races/kalifa.cfg:7
-msgid ""
-"Aban,Abbas,Abbud,Abdul-'Adl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
-"Abdul-Aziz,Abdul-Badi,Abdul-Ba'ith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
-"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
-"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
-"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
-"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdi',"
-"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Mu'id,Abdul-Mu'izz,"
-"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
-"Muta'al,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
-"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
-"Rahman,Abdul-Rashid,Abdul-Ra'uf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
-"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
-"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,'Abid,'Abidin,Abu Bakr,Aby al-Khayr,"
-"Adil,Adham,Adib,'Adli,'Adnan,'Afif,Ahmad,'Ajib,'Akif,Akil,Akram,Ala',Ala' al-"
-"Din,Al' Abbas,Aladdin,Al-Bara,Al-Hakam,Al-Harith,Alhasan,Alhusain,Ali,Alim,"
-"Almahdi,Al-Safi,Altaf,Altair,Al-Tayyib,Al-Tijani,Al-Tufail,Amid,'Amid,Amin,"
-"Amir,'Amir,Amjad,'Ammar,'Amro,Anas,Anis,'Antarah,Anwar,'Aqil,Arfan,"
-"Arif,'Arif,Asad,As'ad,Asadel,Ashraf,Asif,'Asim,Aswad,Ata',Ata' Allah,Ata' al-"
-"Rahman,Athil,Athir,'Atif,'Awad,'Awf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,"
-"Aza,'Azab,Azhar,Azim,'Aziz,'Azzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
-"Baha',Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,Barir,"
-"Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,"
-"Bushr,Butrus,Dabir,Dani,Darwish,Da'ud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,"
-"Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,"
-"Fa'iz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,"
-"Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,"
-"Fida,Fikri,Firas,Fu'ad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,"
-"Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,"
-"Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hana'i,Hanbal,Hani,Hanif,"
-"Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,"
-"Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-"
-"Din,Ibrahim,'Id,Idris,Ihsan,Ihtisham,'Ikrimah,Ilias,'Imad,Imad al-Din,Imran,"
-"Imtiyaz,In'am,Iqbal,'Irfan,'Isa,'Isam,Ishaq,Isma'il,Iyad,Iyas,Izz al-Din,"
-"Jabbar,Jabr,Jabir,Jad Allah,Ja'far,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal "
-"al-Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,"
-"Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
-"Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
-"Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
-"Kutaiba,Labib,Lablab,Latif,Layth,Lu'ayLubayd,Luqman,Lut,Lutfi,Ma'd,Madani,"
-"Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,"
-"Majid,Makin,Malik,Mamduh,Ma'mun,Ma'in,Mandhur,Mansur,Marghub,Marid,Ma'ruf,"
-"Marwan,Marzuq,Mash'al,Mashhur,Masrur,Mas'ud,Masun,Maysarah,Mazhar,Mazin,"
-"Mehmed,Mihran,Mihyar,Mika'il,Miqdad,Misbah,Mish'al,Miyaz,Mu'adh,Mu'awiyah,"
-"Mu'ayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,"
-"Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Mu'in,Mu'izz,Mujab,"
-"Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Mu'mmar,Mu'min,Mumtaz,Munahid,"
-"Mundhir,Munib,Munif,Munir,Mu'nis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,"
-"Murtada,Musa,Mus'ab,Musa'id,Mushtaq,Muslih,Muslim,Mutafa,Muta',Mu'tasim,"
-"Mutawalli,Mu'tazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,"
-"Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafi',Nahid,Na'il,Na'im,Naji,Najib,"
-"Najid,Najjar,Najm al-Din,Na'aman,Namir,Nash'ah,Nash'at,Nashwan,Nasib,Nasih,"
-"Nasim,Nasir,Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,"
-"Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nu'aym,Nuh,Nuhayd,Numair,Nu'man,Nur al-"
-"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,"
-"Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Ra'id,"
-"Ra'if,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,"
-"Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Ra'uf,Rayhan,Rayyan,Razin,Ridha,Ridwan,"
-"Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Sa'adah,Sab,Sabih,Sabir,Sabri,"
-"Sa'd,Sa'd al-Din,Sadad,Sadid,Sadiq,Sa'dun,Sa'id,Safi,Safiy,Safiy al-Din,"
-"Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Sa'ib,Saif,Saif al-Din,Sajid,"
-"Sajjad,Sakhr,Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,"
-"Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Sha'ban,Shadi,Shadin,Shafi,Shafiq,"
-"Shahid,Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
-"Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shu'ayb,Shukri,Shumayl,Siddiq,"
-"Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,"
-"Sumrah,Suraqah,Su'ud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,"
-"Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,"
-"Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,'Ubaidah,Ubaid,"
-"Ubayy,'Udayl,'Uday,'Umar,Umarah,Umair,'Urwah,Usaym,Usama,'Utbah,Uthal,Uthman,"
-"Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Wa'il,Wajdi,Wajid,Wajih,Wakil,"
-"Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,"
-"Wazir,Yahya,Yaman,Ya'qub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,"
-"Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
-"Ziyad,Zubayr,Zuhayr"
-msgstr ""
-
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:5
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:5
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:5
-msgid "Captain"
-msgstr ""
-
-#: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:47
-#: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:48
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:39
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:40
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:63
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:64
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:99
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:100
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:40
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:41
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:62
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:63
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:98
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:99
-#: Extended_Era/units/standard/Aragwaith_Scout.cfg:71
-#: Extended_Era/units/standard/Aragwaith_Scout.cfg:72
-#: Extended_Era/units/standard/Aragwaith_Lancer.cfg:78
-#: Extended_Era/units/standard/Aragwaith_Lancer.cfg:79
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:47
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:48
-#: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:23
-#: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:27
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:25
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:26
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:49
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:50
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:30
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:31
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:100
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:101
-#: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:86
-#: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:87
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:65
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:66
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:23
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:24
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:102
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:103
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:25
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:26
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:49
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:50
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:22
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:23
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:39
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:40
-#: Extended_Era/units/standard/Aragwaith_Guardian.cfg:28
-#: Extended_Era/units/standard/Aragwaith_Guardian.cfg:29
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:64
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:99
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:100
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:40
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:41
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:26
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:27
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:50
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:51
-#: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:28
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:62
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:98
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:99
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:31
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:32
-msgid "spear"
-msgstr "keihäs"
-
-#: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:49
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:41
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:65
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:101
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:42
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:64
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:100
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:68
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:76
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:29
-#: Extended_Era/units/standard/Aragwaith_Scout.cfg:73
-#: Extended_Era/units/standard/Aragwaith_Lancer.cfg:80
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:72
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:49
-#: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:26
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:100
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:100
-#: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:29
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:24
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:52
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:27
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:51
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:98
-#: Extended_Era/units/standard/Naga_Hunter.cfg:69
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:69
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:32
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:93
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:102
-#: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:88
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:68
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:67
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:54
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:25
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:104
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:76
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:27
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:51
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:56
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:60
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:94
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:135
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:194
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:66
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:24
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:41
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:101
-#: Extended_Era/units/standard/Naga_Assassin.cfg:56
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:76
-#: Extended_Era/units/standard/Aragwaith_Guardian.cfg:31
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:65
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:101
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:103
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:75
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:42
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:60
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:28
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:52
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:69
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:69
-#: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:30
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:61
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:26
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:64
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:100
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:33
-msgid "pierce"
-msgstr "lävistys"
-
-#: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25
-#: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:26
-#: Extended_Era/units/rpg/Sidhe_Warrior.cfg:21
-#: Extended_Era/units/rpg/Sidhe_Warrior.cfg:22
-#: Extended_Era/units/rpg/Sidhe_Herald.cfg:24
-#: Extended_Era/units/rpg/Sidhe_Herald.cfg:25
-#: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:50
-#: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:51
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:24
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:25
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:25
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:26
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:21
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:22
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:147
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:148
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:26
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:27
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:148
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:149
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:25
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:22
-#: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:23
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:22
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:23
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:21
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:22
-#: Extended_Era/units/standard/Sidhe_Warsinger.cfg:25
-#: Extended_Era/units/standard/Sidhe_Warsinger.cfg:26
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:53
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:54
-#: Extended_Era/units/standard/Sidhe_Warrior.cfg:21
-#: Extended_Era/units/standard/Sidhe_Warrior.cfg:22
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:31
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:32
-#: Extended_Era/units/standard/Sidhe_Wardancer.cfg:22
-#: Extended_Era/units/standard/Sidhe_Wardancer.cfg:23
-#: Extended_Era/units/standard/Sidhe_Herald.cfg:24
-#: Extended_Era/units/standard/Sidhe_Herald.cfg:25
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:51
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:52
-#: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:21
-#: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:22
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:21
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:22
-#: Extended_Era/units/standard/Naga_Hunter.cfg:41
-#: Extended_Era/units/standard/Naga_Hunter.cfg:42
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:21
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:22
-#: Extended_Era/units/standard/Chaos_Knight.cfg:38
-#: Extended_Era/units/standard/Chaos_Knight.cfg:39
-#: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:50
-#: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:51
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:25
-#: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:24
-#: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:25
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:21
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:22
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:32
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:33
-#: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:76
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:77
-#: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:25
-#: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:26
-#: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:25
-#: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:26
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:39
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:40
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:21
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:22
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:147
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:148
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:22
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:23
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:21
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:22
-#: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:21
-#: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22
-#: Extended_Era/units/standard/Chaos_Invader.cfg:38
-#: Extended_Era/units/standard/Chaos_Invader.cfg:39
-#: Extended_Era/units/standard/Naga_Assassin.cfg:28
-#: Extended_Era/units/standard/Naga_Assassin.cfg:29
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:21
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:22
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:148
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:149
-#: Extended_Era/units/standard/Sidhe_Wildblade.cfg:21
-#: Extended_Era/units/standard/Sidhe_Wildblade.cfg:22
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:55
-#: Extended_Era/units/standard/Sidhe_Fury.cfg:21
-#: Extended_Era/units/standard/Sidhe_Fury.cfg:22
-#: Extended_Era/units/standard/Aragwaith_Guard.cfg:55
-#: Extended_Era/units/standard/Aragwaith_Guard.cfg:56
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
-msgid "sword"
-msgstr "miekka"
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:36
-#: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:28
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:33
-#: Extended_Era/units/rpg/Sidhe_Warrior.cfg:24
-#: Extended_Era/units/rpg/Sidhe_Herald.cfg:27
-#: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:53
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:27
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:73
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:75
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:28
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:24
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:150
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:75
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:29
-#: Extended_Era/units/rpg/Aragwaith_Captain.cfg:151
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:28
-#: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:25
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:36
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:28
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:27
-#: Extended_Era/units/standard/Bear_Young.cfg:49
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:24
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:41
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:33
-#: Extended_Era/units/standard/Sidhe_Warsinger.cfg:28
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:33
-#: Extended_Era/units/standard/Chaos_Hound.cfg:32
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:56
-#: Extended_Era/units/standard/Sidhe_Warrior.cfg:24
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:33
-#: Extended_Era/units/standard/Sidhe_Wardancer.cfg:25
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:30
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:28
-#: Extended_Era/units/standard/Sidhe_Herald.cfg:27
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:54
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:24
-#: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:24
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:24
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:25
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:29
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:72
-#: Extended_Era/units/standard/Naga_Hunter.cfg:44
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:47
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:29
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:29
-#: Extended_Era/units/standard/Chaos_Knight.cfg:40
-#: Extended_Era/units/standard/Chaos_Knight.cfg:87
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:27
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:68
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:47
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:66
-#: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:53
-#: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:82
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:29
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:27
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:33
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:64
-#: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:27
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:24
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:68
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:35
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:73
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:65
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:38
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:128
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:75
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:98
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:24
-#: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:30
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:57
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:79
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:70
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:61
-#: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:28
-#: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:28
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:41
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:78
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:28
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:24
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:150
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:75
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:25
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:23
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:26
-#: Extended_Era/units/standard/Chaos_Invader.cfg:40
-#: Extended_Era/units/standard/Naga_Assassin.cfg:31
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:158
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:39
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:40
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:87
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:29
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:67
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:26
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:25
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:32
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:24
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:151
-#: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:26
-#: Extended_Era/units/standard/Sidhe_Wildblade.cfg:24
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:24
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:30
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:57
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:29
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:24
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:28
-#: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:40
-#: Extended_Era/units/standard/Sidhe_Fury.cfg:24
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:31
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:159
-#: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:27
-#: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:39
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:68
-#: Extended_Era/units/standard/Bear.cfg:50
-#: Extended_Era/units/standard/Aragwaith_Guard.cfg:58
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:32
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:28
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:69
-msgid "blade"
-msgstr "viilto"
-
-#: Extended_Era/units/rpg/Aragwaith_Flagbearer.cfg:5
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
-msgid "Flagbearer"
-msgstr ""
-
-#: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:5
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
-msgid "Spearman"
-msgstr "Keihäsmies"
-
-#: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:19
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:19
-msgid ""
-"The less dextrous and stronger Aragwaith take up the spear. Useful in "
-"hunting, this weapon is also deadly on the battlefield. Many impetuous "
-"knights have found themselves or their mounts impaled on the point of an "
-"Aragwaithi spear.\n"
+"It is said that the eldest lines of drakes - the direct descendants of the "
+"dragons themselves, have veins which course with fire rather than blood. "
+"That they can breathe fire as they do lends credence to this belief, though, "
+"for some reason, no one has tried cutting one open to find out.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:5
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:5
-msgid "Demonologist"
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:4
+msgid "Drake Flare"
 msgstr ""
 
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:31
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:31
+#: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:27
 msgid ""
-"The mastery of daemons lies in the changing into daemon oneself. "
-"Demonologists are daemonic minds entrapped in human body. What is left of "
-"human in these creatures are only bodies and memories of invokers and magi, "
-"who finally achieved the true power of their lords."
+"Drakes are an old race, wise enough to hearken to their own natural leaders. "
+"Those who are called 'flares' by their enemies are the drakes who aspire to "
+"be such leaders, both in war and in peace.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:43
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:46
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:47
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:35
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:36
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:33
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:34
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:43
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:44
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:32
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:33
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:33
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:34
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:31
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:32
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:34
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:35
-#: Extended_Era/units/standard/Chaos_Magus.cfg:46
-#: Extended_Era/units/standard/Chaos_Magus.cfg:47
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:36
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:35
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:36
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:33
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:34
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:33
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:34
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:36
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:37
-msgid "staff"
-msgstr "sauva"
-
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:45
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:64
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:31
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:176
-#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:37
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:48
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:38
-#: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:28
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:65
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:61
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:33
-#: Extended_Era/units/standard/Bear_Young.cfg:24
-#: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:38
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:28
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:35
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:67
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:70
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:45
-#: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:40
-#: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:29
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:34
-#: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:35
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:62
-#: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:32
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:66
-#: Extended_Era/units/standard/Chaos_Abomination.cfg:37
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:35
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:35
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:66
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:39
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:85
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:109
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:30
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:64
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:31
-#: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:39
-#: Extended_Era/units/standard/Naga_Guardian.cfg:29
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:31
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:72
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:29
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:31
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:28
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:177
-#: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:36
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:36
-#: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:34
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:34
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:37
-#: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:47
-#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:37
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:30
-#: Extended_Era/units/standard/Chaos_Magus.cfg:48
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:37
-#: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:36
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:38
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:65
-#: Extended_Era/units/standard/Wose_Shaman.cfg:40
-#: Extended_Era/units/standard/Wose_Shaman.cfg:76
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:61
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:33
-#: Extended_Era/units/standard/Kalifa_Ekim.cfg:30
-#: Extended_Era/units/standard/Naga_Sentinel.cfg:30
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:35
-#: Extended_Era/units/standard/Naga_Warden.cfg:29
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:27
-#: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:36
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:34
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:36
-#: Extended_Era/units/standard/Bear.cfg:25
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:63
-#: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:50
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:39
-#: Extended_Era/units/standard/Troll_Shaman.cfg:34
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:109
-msgid "impact"
-msgstr "murskaus"
-
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:80
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:81
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:83
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:84
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:72
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:73
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:80
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:81
-#: Extended_Era/units/standard/Chaos_Magus.cfg:83
-#: Extended_Era/units/standard/Chaos_Magus.cfg:84
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:72
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:73
-msgid "chaos blast"
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:4
+msgid "Elvish Captain"
 msgstr ""
 
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:76
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:89
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:82
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:135
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:85
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:75
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:75
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:50
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:89
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:62
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:82
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:53
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:25
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:61
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:52
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:49
-#: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:28
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:136
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:75
-#: Extended_Era/units/standard/Chaos_Magus.cfg:85
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:74
-#: Extended_Era/units/standard/Steppe_Orc_Outcast.cfg:29
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:77
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:66
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:51
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:49
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:62
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:54
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:75
-msgid "cold"
-msgstr "kylmä"
-
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:128
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:129
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:128
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:129
-msgid "infernal storm"
-msgstr ""
-
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:131
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:48
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:77
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:70
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:61
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:48
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:105
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:48
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:69
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:65
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:61
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:74
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:130
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:49
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:48
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:63
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:52
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:69
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:64
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:30
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:61
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:68
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:66
-#: Extended_Era/units/standard/Troll_Shaman.cfg:59
-msgid "fire"
-msgstr "tuli"
-
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:5
-msgid "Invoker"
-msgstr ""
-
-#: Extended_Era/units/rpg/Chaos_Invoker.cfg:27
-#: Extended_Era/units/standard/Chaos_Invoker.cfg:27
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:28
 msgid ""
-"You can spot them at the first line of Chaos flood. Standing with small "
-"groups of warriors, these adepts of fiery arts of Chaos command the vanguard "
-"hordes of chaos, seeking the best opportunity to advance in the ranks of "
-"Chaos. At this point, their mind can be still compared to the mind of the "
-"mortal. The only difference is they have no soul, for they sold theirs to "
-"their daemonic Gods."
+"Elves, unlike many other races, will quickly acknowledge and follow any of "
+"their peers who have experience in combat. This is quite at odds with "
+"humanity, for whom leadership is often a fickle mess of coercion and "
+"intimidation. The combination of their willingness to accept the wisdom of "
+"their leaders, and the tendency to choose leaders of merit is one of the "
+"quiet strengths of the elves.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:5
-#: Extended_Era/units/standard/Chaos_Magus.cfg:5
-msgid "Magus"
-msgstr ""
-
-#: Extended_Era/units/rpg/Chaos_Magus.cfg:30
-#: Extended_Era/units/standard/Chaos_Magus.cfg:30
-msgid ""
-"It is they, who rally with the larger groups of chaos warriors, supporting "
-"them with magic. As daemonic essence touches chaotic mages, they gain the "
-"sharpness of mind and way of thinking more resembling daemons, than human "
-"beings. Being trapped between human and daemon life form, they seek no "
-"turning back, but aspire to lose their humanity and succumb to the very core "
-"of Chaos."
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:21
-#: Extended_Era/units/standard/Dark_Elf_Captain.cfg:21
-msgid ""
-"These Elves have been an example to their fellow soldiers, and have gained "
-"the rank of Captain. Although they can never become Lords, they still strive "
-"to do their best to defend the Matron Mother with their swords and short "
-"spears."
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
-msgid "Fighter"
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:4
+#, fuzzy
+msgid "Elvish Fighter"
 msgstr "Soturi"
 
-#: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:24
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:20
 msgid ""
-"The initiates in their House army, many Fighters die because of lack of "
-"training. Dark Elves believe that only the best should have the honor of "
-"fighting for the Matron Mother."
+"Elves are not warlike by nature, but in times of need, their natural grace "
+"and agility serve them well, as does their skillful craftsmanship. An elf "
+"can grasp the basics of swordsmanship and archery in an uncannily short "
+"time, and put them to effective use on the battlefield."
 msgstr ""
 
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:5
-msgid "High Lord"
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:4
+msgid "Elvish Marshal"
 msgstr ""
 
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:21
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:21
+#: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:29
 msgid ""
-"When in his castle, the High Lord watches his slaves, feeds the lizards, and "
-"other duties. They wear simple purple robes, and keep their hair combed. "
-"However, when on the battlefield, they are as bold and daring as anyone. "
-"After years of experience, they know every trick of their trade. Their men "
-"follow them fearlessly, confident that through their Lords guidance, none "
-"can stand before them."
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:61
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:62
-#: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:63
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:58
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:59
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:68
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:69
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:61
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:62
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:69
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:70
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:62
-#: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:58
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:59
-msgid "shield"
-msgstr "kilpi"
-
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:5
-msgid "Lord"
-msgstr "Ylimys"
-
-#: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:20
-#: Extended_Era/units/standard/Dark_Elf_Lord.cfg:20
-msgid ""
-"Highly decorated, These men have gained the title of Lord through their "
-"cunning, their prowess, bravery, and strength. They command their provinces, "
-"lead their men in battle, and hold the law with an iron grip. They lead as "
-"an example to the life of a warrior in the realm of the Dark Elves."
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:5
-msgid "Marshal"
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:22
-#: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:22
-msgid ""
-"These Elves have proven themselves on and off the battle field with their "
-"character and demeanor. They have earned for themselves the rank of Marshal. "
-"Although they can never become Lords, they still strive to do their best to "
-"defend the Matron Mother with their swords and short spears."
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:5
-msgid "Noble"
-msgstr ""
-
-#: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:17
-#: Extended_Era/units/standard/Dark_Elf_Noble.cfg:17
-msgid ""
-"The young Lords are rash and brave. They have spent their entire childhood "
-"training with the sword, and have been taught from the best Marshals "
-"battlefield tactics. They have highly decorative shields that they use in "
-"battle to attack and encourage their troops."
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
-msgid "Rogue Mage"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:33
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:34
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:30
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:31
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:33
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:34
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:30
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:31
-msgid "short sword"
-msgstr "lyhytmiekka"
-
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:87
-#: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:88
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:87
-#: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:88
-msgid "missile"
-msgstr "tulipallo"
-
-#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:5
-#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:5
-msgid "Ruffian"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:19
-#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:19
-msgid ""
-"Some men without particular skills cannot or will not make an honest living. "
-"Those that attempt to make their way through life by the heavy end of a "
-"stick, are known as 'Ruffians'.  With enough experience they can learn to "
-"swing a bigger club or throw things, but not both."
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:35
-#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:36
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:28
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:29
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:29
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:30
-#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:35
-#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:36
-msgid "club"
-msgstr "puunuija"
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:5
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:5
-msgid "Shadow Lord"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:73
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:74
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:73
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:74
-msgid "astral blade"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:133
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:134
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:133
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:134
-msgid "shadow bolt"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:174
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:175
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:174
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:175
-msgid "shadow blast"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:5
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:5
-msgid "Shadow Mage"
-msgstr ""
-
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:73
-#: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:74
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:73
-#: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:74
-msgid "ice blast"
-msgstr ""
-
-#: Extended_Era/units/rpg/Sidhe_Herald.cfg:5
-#: Extended_Era/units/standard/Sidhe_Herald.cfg:5
-msgid "Herald"
-msgstr ""
-
-#: Extended_Era/units/rpg/Sidhe_Herald.cfg:20
-#: Extended_Era/units/standard/Sidhe_Herald.cfg:20
-msgid ""
-"The Heralds are sidhe who go out onto the battlefield, singing the warrior "
-"chants that drive the others onwards."
-msgstr ""
-
-#: Extended_Era/units/rpg/Sidhe_Warrior.cfg:5
-#: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
-msgid "Warrior"
-msgstr "Soturi"
-
-#: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
-#: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
-msgid ""
-"The lithe and strong sidhe warriors are deadly swordsmen, capable of dealing "
-"fast, strong blows and avoiding them just as easily. Their only weakness is "
-"the frailty due to their distaste for armor."
-msgstr ""
-
-#: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:5
-#: Extended_Era/units/standard/Sidhe_Warsinger.cfg:5
-msgid "Warsinger"
-msgstr ""
-
-#: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:21
-#: Extended_Era/units/standard/Sidhe_Warsinger.cfg:21
-msgid ""
-"The Warsinger is a master of the songs of combat. A powerful warrior "
-"himself, he can drive his companions into battle frenzies."
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:5
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:5
-msgid "Steppe Khan"
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:26
-msgid ""
-"The steppe chieftains are titled Khans, serving as both statesmen and "
-"generals. They have discovered the advantages of leading from behind, urging "
-"their fellows on before them. Before a battle it is customary for them to "
-"mingle with the soldiers, goading them on with threats, promises, insults or "
-"just primal bellows. Anything to spur them into a towering rage. Nearly "
-"everyone who has fought the orcs of the steppe has spoke of the unnerving "
-"roars of the orcish leaders. \n"
-"Despite this, Khans are more then ready to enter the fray against any "
-"especially audacious enemy that seeks to challenge them. Often, while "
-"retaining their flail, they focus on using the axe as they are considered "
-"too valuable an asset to risk in daredevil charges. \n"
-"\n"
-"Special Notes: When used on the offensive the intimidation of a Khans "
-"charging flail attack decreases the damage he takes in retaliation. This "
-"only effects enemies of equal or lesser level."
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:28
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:29
-#: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:25
-#: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:26
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:30
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:31
-#: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:27
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:28
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:29
-#: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:25
-#: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:30
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:31
-msgid "flail"
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:70
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:71
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:72
-#: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:73
-#: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:23
-#: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:70
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:71
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:72
-#: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:73
-#: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:23
-#: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:25
-msgid "battle axe"
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:5
-#: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:5
-msgid "Steppe Spearhead"
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:21
-#: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:21
-msgid ""
-"Any Steppe Orcs wishing to lead their comrades must first show their worth "
-"in battle. Spearheads lead the charge into the enemy, seeking to crash a "
-"hole in the battle lines of the foe. It is a dangerous profession to say the "
-"least. Their eagerness to impress frequently results in a sticky end. Their "
-"crude but often effective tactics are complemented by equally crude but "
-"effective weapons. A weight attached to a chain makes a perfectly servicable "
-"flail. \n"
-"\n"
-"Special Notes: When used on the offensive the intimidation of a Spearheads "
-"charging flail attack decreases the damage he takes in retaliation. This "
-"only effects enemies of equal or lesser level."
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:5
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:5
-msgid "Steppe Vanguard"
-msgstr ""
-
-#: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:24
-#: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:24
-msgid ""
-"Having proven themselves in battle, Vanguards start to assert their "
-"authority others. Their experience is put to use on the battlefield, where "
-"they direct the actions of their comrades. Yet often in the fracas of battle "
-"these subtleties are disregarded and the Vanguards live up to their name, "
-"leading by example. They have however learnt some restraint, complementing "
-"their flails with a standard battleaxe similar to that used by steppe "
-"warriors. \n"
-"\n"
-"Special Notes: When used on the offensive the intimidation of a Vanguards "
-"charging flail attack decreases the damage he takes in retaliation. This "
-"only effects enemies of equal or lesser level."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:5
-msgid "Archer"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:17
-msgid ""
-"The Aragwaithi are a noble people, fragile in body, but their training makes "
-"them among the more deadly denizens of this world. Their archers are no "
-"exception. Their skills with a bow are comparable to those of some elves, "
-"and they are remarkably quick with their daggers."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:27
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:28
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:69
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:70
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:26
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:64
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:65
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:27
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:28
-msgid "knife"
-msgstr "veitsi"
-
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:98
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:99
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:96
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:97
-#: Extended_Era/units/standard/Naga_Hunter.cfg:66
-#: Extended_Era/units/standard/Naga_Hunter.cfg:67
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:91
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:92
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:133
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:134
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:192
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:193
-#: Extended_Era/units/standard/Naga_Assassin.cfg:53
-#: Extended_Era/units/standard/Naga_Assassin.cfg:54
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:102
-msgid "bow"
-msgstr "jousi"
-
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:5
-msgid "Eagle Master"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:19
-msgid ""
-"With experience, Eagle riders become more skilled and the relation with "
-"their winged friend become so strong that they act as one. As Eagle masters, "
-"they no longer need to give orders to their mounts, those anticipate them."
-msgstr ""
-
-#: Extended_Era/units/standard/Bear_Young.cfg:46
-#: Extended_Era/units/standard/Bear_Young.cfg:47
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:38
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:39
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:23
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:24
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:26
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:27
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:45
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:46
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:26
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:27
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:25
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:26
-#: Extended_Era/units/standard/Bear.cfg:47
-#: Extended_Era/units/standard/Bear.cfg:48
-msgid "claws"
-msgstr "kynnet"
-
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:63
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:64
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:63
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:64
-#, fuzzy
-msgid "prey crush"
-msgstr "murskaus"
-
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:5
-msgid "Eagle Rider"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:19
-msgid ""
-"Some Aragwaithi youths take young eagles as a pet. These are not the common "
-"eagles, but a race of noble, giant birds of prey. When they are grown "
-"enough, they usually willing to serve as a mount for their best friend, and "
-"their young mates learn the art of riding these giant birds."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:5
-msgid "Greatbow"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:19
-msgid ""
-"Finally moving on from the dirk and dagger to the sword, the Greatbow is "
-"superior to the Strongbow in melee combat, but not as powerful as the "
-"Slayer. Their bow, however, is a masterpiece of military design. Several "
-"months are spent crafting a single bow, and each bow is crafted by the user, "
-"to his individual specifications. Due to the incredible strength required to "
-"pull these bows, anyone but the crafter who attempts to draw it could suffer "
-"serious injury."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Guard.cfg:5
-msgid "Guard"
-msgstr "Vartija"
-
-#: Extended_Era/units/standard/Aragwaith_Guard.cfg:22
-msgid ""
-"Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
-"mobility for the advantages of armor. Whether in ceremonial posts during "
-"peace, or on the battlefield in times of war, their role is always the same: "
-"defending the Warlock nobilty."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Guardian.cfg:5
-msgid "Guardian"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Lancer.cfg:5
-msgid "Lancer"
-msgstr "Peitsimies"
-
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:5
-msgid "Longswordsman"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:17
-msgid ""
-"While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other "
-"races, the Aragwaithi reserve their own admiration for Longswordsmen. These "
-"warriors have become so adept at the arts of thrust and parry that they have "
-"adopted a longer blade than the Swordsmen, yet they are able to wield it "
-"with equal grace and skill."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:62
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
-#, fuzzy
-msgid "longsword"
-msgstr "miekka"
-
-#: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:5
-msgid "Pikeman"
-msgstr "Seiväsmies"
-
-#: Extended_Era/units/standard/Aragwaith_Scout.cfg:5
-msgid "Scout"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:5
-msgid "Shield Guard"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:23
-msgid ""
-"These warriors wear the old shields of their ancients. These ancients could "
-"hold the line in the great battles until the reinforcements arrived, but "
-"they paid a high price, not many survived the battle and many others died "
-"through their strong wounds. Now only the best warriors are allowed to carry "
-"these ancient shields to remind the world and to honor these brave man and "
-"their sacrifice."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:5
-msgid "Silver Shield"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:5
-msgid "Slayer"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:21
-msgid ""
-"While improving only marginally on the power of their bow, the Slayer "
-"abandons the blade in favor of training with a glaive, improving his skills "
-"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
-"but far deadlier."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:68
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:69
-msgid "glaive"
-msgstr "kalpa"
-
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:5
-msgid "Aragwaith^Sorcerer"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:21
-msgid ""
-"Sorcerers are like the wind they can stand in front of you and one second "
-"later behind you. On the battlefield they are fearful enemies and even the "
-"aragwaithi throw a carefull eye on them mostly from a prefered distance of a "
-"hundred feets.\n"
+"The longevity and natural intelligence of elves makes for a vicious aptitude "
+"for military matters, enough even to counter their general distaste for such "
+"things. Elves remember things much more clearly than humankind, and can "
+"often intuit what others can only be trained to do. Certainly, on those rare "
+"occasions when an elf sets his mind to war, the strategy that results is the "
+"work of a master.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:58
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:59
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:71
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:72
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:63
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:64
-msgid "mage-bolt"
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:4
+msgid "Death Knight"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:96
-msgid "Aragwaith^Sorceress"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:101
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:27
 msgid ""
-"Sorceresses are like the wind they can stand in front of you and one second "
-"later behind you. On the battlefield they are fearful enemies and even the "
-"aragwaithi throw a carefull eye on them mostly from a prefered distance of a "
-"hundred feets.\n"
+"Tales are told of the mightiest warriors and generals, who, cursed with hate "
+"and a sense of betrayal, came back to this world as Death Knights. Wielding "
+"the same weapons as they did before, they command the Undead in their quest "
+"for revenge.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:5
-msgid "Strongbow"
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:4
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:4
+msgid "Revenant"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:17
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:19
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:19
 msgid ""
-"By wielding a stronger bow and training almost constantly, the Aragwaith "
-"Strongbow fires a far deadlier shot than the average archer. Their dirks are "
-"longer than the daggers used by the typical archer, and they wield them far "
-"more effectively."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
-msgid "Swordmaster"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:19
-msgid ""
-"Swordmasters do not come into their title lightly. They have endured years "
-"of rigorous Aragwaithi military training, and survived many ferocious "
-"battles. Their skill with their blades is spoken of with awe among those few "
-"foes who have witnessed it - and lived.\n"
-"Having won thier title, Swordmasters take responsibility for instructing the "
-"young, passing on the proud Aragwaithi martial traditions. Even the Royal "
-"Guards of Wesnoth respect the Swordmasters."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
-msgid "Swordsman"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:25
-msgid ""
-"While the Agarwaith are slight of body, they are also fast and nimble. These "
-"abilites, coupled with the intensive training given to the Agarwaithi "
-"military, make for superb swordsmen. Swordsmen are clad in light chain mail "
-"- the better to resist the blades of their enemies."
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
-msgid "Aragwaith^Warlock"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:23
-msgid ""
-"The magically inclined among the Aragwaith recieve not only the martial "
-"training so common in Aragwaithi society, but also in the art of healing, "
-"and of course in magic. Wielding powerful fire, competent with their staves, "
-"possessing a healing touch, Warlocks are the noblest of a noble people. \n"
+"Given false life to do battle once more, the creatures known as Revenants "
+"were clearly great warriors in their time, though the memory of that time is "
+"now long gone. Even the sorcerers who raised them can only speculate on "
+"their past. Such questions aside, a Revenant is a powerful tool in combat: a "
+"fearless warrior that feels no pain, and which will fight to the bitter "
+"end.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:109
-msgid "female^Warlock"
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:4
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:4
+msgid "Skeleton"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Warlock.cfg:114
+#: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:20
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:20
 msgid ""
-"female^The magically inclined among the Aragwaith recieve not only the "
-"martial training so common in Aragwaithi society, but also in the art of "
-"healing, and of course in magic. Wielding powerful fire, competent with "
-"their staves, possessing a healing touch, Warlocks are the noblest of a "
-"noble people. \n"
+"Skeletons are warriors who have been slain in battle and brought back by "
+"dark magics. Nearly mindless, and unwavering in their purpose, they fear "
+"neither pain, nor death, and their mere presence will often frighten away "
+"any who would challenge their master.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:5
-msgid "Aragwaith^Wizard"
-msgstr ""
-
-#: Extended_Era/units/standard/Aragwaith_Wizard.cfg:91
-msgid "female^Wizard"
-msgstr ""
-
-#: Extended_Era/units/standard/Bear.cfg:5
-#, fuzzy
-msgid "Bear"
-msgstr "keihäs"
-
-#: Extended_Era/units/standard/Bear.cfg:18
-msgid "just a bear"
-msgstr ""
-
-#: Extended_Era/units/standard/Bear_Young.cfg:21
-#: Extended_Era/units/standard/Bear_Young.cfg:22
-#: Extended_Era/units/standard/Bear.cfg:22
-#: Extended_Era/units/standard/Bear.cfg:23
-msgid "bearhug"
-msgstr ""
-
-#: Extended_Era/units/standard/Bear_Young.cfg:5
-msgid "Young Bear"
-msgstr ""
-
-#: Extended_Era/units/standard/Bear_Young.cfg:17
-msgid "a young bear"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Abomination.cfg:5
-msgid "Abomination"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Abomination.cfg:32
-#: Extended_Era/units/standard/Chaos_Abomination.cfg:33
-#: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:31
-#: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:32
-#: Extended_Era/units/standard/Wose_Shaman.cfg:37
-#: Extended_Era/units/standard/Wose_Shaman.cfg:38
-#: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:31
-#: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:32
-msgid "crush"
-msgstr "murskaus"
-
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:5
-msgid "Doom Guard"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:27
-msgid ""
-"Daemons know that, the only thing than can stop a tidal wave is a powerful "
-"wall. Doom Guards are such wall, wall of living flesh and steel. Devoid of "
-"bloodlust, their aggression is changed into fanatic loyalty. Doom Guards are "
-"not the ones to fight, they are the ones to stand against every possible "
-"enemy."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:5
-msgid "Blood Knight"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:34
-msgid ""
-"Ultimate mastery comes with the greatest sacrifice. Dark Knights open their "
-"veins and let their blood flow. If taste of their blood satisfies the Chaos "
-"Lords, they promote them to the rank of Blood Knights, supreme warriors of "
-"Chaos."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:31
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:32
-#: Extended_Era/units/standard/Chaos_Knight.cfg:85
-#: Extended_Era/units/standard/Chaos_Knight.cfg:86
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:64
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:65
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:66
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:29
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:126
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:127
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:22
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:23
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:76
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:77
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:29
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:156
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:157
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:85
-#: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:86
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:30
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:31
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:22
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:23
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:22
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:23
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:29
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:157
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:158
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:31
-msgid "axe"
-msgstr "kirves"
-
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:5
-msgid "Chaos Daemon"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:27
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:26
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:26
-msgid ""
-"The lesser demons are the gift of the Gods of Chaos to those who have shown "
-"to be worthy enough to recieve aid from their sides, though barely any "
-"tougher than the average human the lesser demons can easily turn the tide of "
-"a battle due to the combination of their nible movement and tough fighting..."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:75
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:76
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:68
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:69
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:67
-#: Extended_Era/units/standard/Chaos_Daemon.cfg:68
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:66
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:67
-msgid "fireball"
-msgstr "tulipallo"
-
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
-msgid "Hell Guardian"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:28
-msgid ""
-"Only the toughest of armorers are worthy of greatest armors, that are forged "
-"in burning pits of daemonic homeworld. It is said, that if they were "
-"commanded to, they could easily withstand the avalanche without stepping "
-"back."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:5
-msgid "Evil Crab"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:25
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:26
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:24
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
-#, fuzzy
-msgid "pincers"
-msgstr "lävistys"
-
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:48
-#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:49
-#, fuzzy
-msgid "evil eye"
-msgstr "lähitaistelu"
-
-#: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
-msgid "Greater Daemon"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:5
-msgid "Greater Mutation"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:5
-msgid "Headhunter"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:25
-msgid ""
-"Given their souls to daemons, these lifeless scouts appear in the places, "
-"that will be infested with the daemonic plague. They are the ones to spread "
-"fear and message of daemonic invasions."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:5
-msgid "Hell Crab"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound.cfg:5
-msgid "Hound"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound.cfg:18
-#: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:26
-msgid ""
-"Quite fragile in combat the Hounds of Chaos are directly affected by the "
-"magic of the chaos mages, resulting in them listening to every word of their "
-"commander which results in frenzied mindless killing machines, though "
-"they're easily taken care of by a tougher adversary, their nimble bodies "
-"allow them to penetrate far into enemy lines and severely damage support "
-"units."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound.cfg:29
-#: Extended_Era/units/standard/Chaos_Hound.cfg:30
-#: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:37
-#: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
-#: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:36
-#: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:37
-msgid "fangs"
-msgstr "torahampaat"
-
-#: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
-msgid "Flesh Hound"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:26
-msgid ""
-"Touched by strange mutation, Flesh Hounds are strangely resembling more "
-"humane beings. Walking on their rear legs, they are muscled berserkers "
-"trained to feel the stench of blood and react like their hound proprietors."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:37
-#: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:38
-#: Extended_Era/units/standard/Troll_Shaman.cfg:31
-#: Extended_Era/units/standard/Troll_Shaman.cfg:32
-msgid "fist"
-msgstr "nyrkki"
-
-#: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
-msgid "Rabid Hound"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:25
-msgid ""
-"Not just a hounds, turned into machines - but mindless bloodthirsty half-"
-"daemons, twice larger than ordinary hounds. They charge only at the commands "
-"of other daemonic beings, with the desire of bloodbath."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:5
-msgid "Warp Hound"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Invader.cfg:5
-msgid "Invader"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Invader.cfg:33
-msgid ""
-"Chaos warriors share the common believe that any goverment and any god is "
-"corrupt by default, by this thought they fufill the bidding of chaos lords "
-"who do not suger coat their reign and let their men face the harsh truth."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Knight.cfg:5
-msgid "Dark Knight"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Knight.cfg:30
-msgid ""
-"Tougher than the averange chaos follower, the Dark Knight attempts to "
-"confuse it's opponent by wielding a different weapon in each hand, he lets "
-"his style on combat alter depending on the situation which makes him a tough "
-"warrior to fight."
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:5
-msgid "Lesser Daemon"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:5
-msgid "Lesser Mutation"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:5
-msgid "Marauder"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Overlord.cfg:5
-msgid "Overlord"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:5
-msgid "Soulhunter"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:5
-msgid "Winged Daemon"
-msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:27
-msgid ""
-"Some daemons are given with power, some are given with speed. Winged Daemons "
-"are the messengers and vanguard of the Daemonic Corpus, who always take "
-"pleasure at sudden strikes and appearing in the place, that no one could "
-"expect them."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
-msgid "female^Cleric"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:22
-msgid ""
-"A Cleric is adapt at both their magical abilities and the use of their "
-"maces, as the Dwarves have found out. They have the cure ability, a tool "
-"they use for their sadistic pleasure. Terribly seductive, they are both "
-"feared and admired for their beauty and cruelty."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:65
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:66
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:60
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:61
-#: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:30
-#: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:31
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:37
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:38
-#: Extended_Era/units/standard/Naga_Guardian.cfg:27
-#: Extended_Era/units/standard/Naga_Guardian.cfg:28
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:27
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:28
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:29
-#: Extended_Era/units/standard/Kalifa_Ekim.cfg:28
-#: Extended_Era/units/standard/Kalifa_Ekim.cfg:29
-#: Extended_Era/units/standard/Naga_Sentinel.cfg:28
-#: Extended_Era/units/standard/Naga_Sentinel.cfg:29
-#: Extended_Era/units/standard/Naga_Warden.cfg:27
-#: Extended_Era/units/standard/Naga_Warden.cfg:28
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:22
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:23
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:61
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:62
-#: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
-#: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:49
-msgid "mace"
-msgstr "helanuija"
-
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:62
-#: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:61
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:62
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:58
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59
-msgid "magic torture"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
-msgid "Corsair"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:18
-msgid ""
-"No single being can stand before a Dark Elf Corsair. If you every see one, "
-"run. With they're razor sharp swords, they can splice and dice a dwarves "
-"beard."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:5
-msgid "female^Enchantress"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:18
-msgid ""
-"The women of the Dark Elves often join the Order of the Clerics at a very "
-"young age. They start of as an Enchantress, with limited physical and "
-"magical abilities, and have just began practicing their torture techniques. "
-"Through the guiding of the Clerics, someday they will become a mighty "
-"Sorceress."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
-msgid "Hunter"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:28
-msgid ""
-"Lurking in the ever dark depths of the caves, the Hunters move around with "
-"out a sound, except for the twang of their crossbows."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:25
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:26
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:27
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:44
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:45
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:31
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:54
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:55
-msgid "dagger"
-msgstr "tikari"
-
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:65
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:66
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:67
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:73
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:74
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:91
-#: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:92
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:73
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:74
-msgid "crossbow"
-msgstr "varsijousi"
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:5
-msgid "Lizard Master"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:19
-msgid ""
-"Though the Lizards are not as fast as horses, they are much more powerful. "
-"Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
-"recruit several of these powerful units."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:53
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:54
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:24
-msgid "deathlance"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:65
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:66
-msgid "bite"
-msgstr "puraisu"
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
-msgid "Lizard Rider"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:32
-msgid ""
-"From childhood, they have been training with their beast, feeding it, "
-"healing it, and sleeping with it. It is their duty to scout ahead into the "
-"unknown, to go where no Dark Elf has gone before. Some day, they will become "
-"Master of the Lizard."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:95
-#: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:96
-msgid "claw"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:5
-msgid "Shadow"
-msgstr "Varjo"
-
-#: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:21
-msgid ""
-"Staying hidden safe in the shadows of the caves, they will hit you when you "
-"least expect it. Despite their frailty, they can inflict great damage over "
-"time, slowly taking the life away from their prey ."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:5
-msgid "Dark Elf^Sorcerer"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:19
-msgid ""
-"Sorcerers are Wizards that have gone deeper into the studying of the arcane "
-"arts. Their research consumes them in a quest for more power, leading them "
-"down a path toward the dark arts practiced by the Necromancers and Lichs. "
-"Their mighty cold blast can freeze any foe that dares to cross their path."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:64
-msgid "dark wave"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
-msgid "Dark Elf^Sorceress"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:21
-msgid ""
-"The women of the Dark Elves often join the Order of the Clerics at a very "
-"young age. These have gained the rank of Sorceress, and have nearly mastered "
-"the art of healing, torturing, and healing their captives again and again. "
-"Very soon, they will become Clerics, the terribly seductive sadistic "
-"torturers."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:5
-msgid "Stalker"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:22
-msgid ""
-"Cunning, agile warriors, the Stalkers are powerful in both the use of their "
-"daggers and crossbows. They are completely hidden in the caves, only the "
-"thud of a dead body tells you they are near."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:5
-msgid "Dark Elf^Warlock"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:19
-msgid ""
-"The best of their kind, these Warlocks have immense power, rivaling even "
-"that of the Arch Mage. They have discovered the secrets of the dark arts, "
-"and have the power to drain life from their opponents with a single touch, "
-"and add it to their own."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:24
-msgid "touch"
-msgstr "kosketus"
-
-#: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
-msgid ""
-"These Warriors have devoted themselves totally to mastering the use of dual "
-"weapons. With their balanced blades, they can shave a Dwarf. Only few become "
-"Corsairs."
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:5
-msgid "Dark Elf^Wizard"
-msgstr ""
-
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:19
-msgid ""
-"Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
-"they are left to the lesser duties of the House, such as upkeep, watching "
-"the slaves, and other such things. However, in time of conflict, they can do "
-"great damage, even though they lack any training in close-combat."
-msgstr ""
-
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
 msgstr ""
 
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:37
+#: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:37
 msgid ""
 "The Armageddon Drakes truely are amongst the toughest of all drakes, they "
 "are so incredibly used to living near fire that they've grown to be \n"
@@ -2185,200 +162,155 @@ msgid ""
 "cold attacks than most other drakes."
 msgstr ""
 
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:102
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:103
+#: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:46
+msgid "claws"
+msgstr "kynnet"
+
+#: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:103
 msgid "fire breath"
 msgstr "tulihenkäys"
 
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
-msgid "Dwarvish Arcanister"
-msgstr ""
+#: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:4
+#, fuzzy
+msgid "Fire Drake"
+msgstr "Draakit"
 
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:23
+#: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:18
 msgid ""
-"The most powerful of all the runecrafters, the Dwarvish Arcanister destroys "
-"wounded enemies almost instantly, and rarely fails to cause a wound when "
-"that is his intent. His skill in runecrafting is unrivaled, and the glyphs "
-"he carves into his weapons and armor deflect the blows of his enemies."
+"The great fire drakes are masters of their internal fire. Clad in shining "
+"armor, they belch columns of flame at any who oppose them, a testament to "
+"the strength and majesty of their kind."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:26
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:27
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:27
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:26
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:27
-msgid "hammer"
-msgstr "vasara"
-
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:5
-msgid "Dwarvish Axemaster"
+#: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:4
+msgid "Inferno Drake"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:24
+#: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:18
 msgid ""
-"The axemaster is something of a dwarvish oddity - fast, nimble, armored, and "
-"deadly with lightning-fast blades.  They are not the strongest fighters in "
-"the dwarvish kingdom, but are well-respected nonetheless."
+"The flying configurations known as Drake Infernos are the masters of the "
+"fire they breathe, and rival their predecessors the Dragons in their ability "
+"to use it. This natural ability renders them nearly immune to fire. Their "
+"shining, flame-colored armor is a mark of their proud and powerful caste, "
+"the ideal to which their brethren aspire."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:5
-msgid "Dwarvish Axethrower"
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:23
-msgid ""
-"Axethrowers have improved their skill hurling their bladed weapons while "
-"retaining their natural speed - a dangerous combination."
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:5
-msgid "Dwarvish Flamethrower"
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:26
-msgid ""
-"It is said that the Dwarven Flamethrowers have strange staves of wood and "
-"iron, similar to those of the Thunderguards. But instead of making a "
-"thunderous noise shooting a projectile, their weapon generates a continous "
-"tongue of flame."
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:67
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:68
-msgid "firestick"
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:5
-msgid "Gyrocopter"
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:19
-msgid ""
-"Some dwarves have crafted strange machines they call 'Gyrocopters'. Capable "
-"of flight, they need space to manoeuvre, thus they cannot be used "
-"underground. Gyrocopters are hard to control and are not suited to close "
-"combat. Instead, their drivers throw strange eggs they call 'bombs', that "
-"explode with the sound of thunder. None know what strange beast lays such "
-"eggs."
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:35
-#: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:36
-#: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:36
-#: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:37
-msgid "bombs"
-msgstr ""
-
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:5
-msgid "Dwarvish Runemaster"
+#: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:4
+#, fuzzy
+msgid "Dwarvish Fighter"
 msgstr "Riimuherra"
 
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:22
+#: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:22
 msgid ""
-"Except for those with almost supernatural skill, the highest rank a "
-"runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows "
-"nearly as powerful as those of the best warriors, they would be fearsome "
-"without their craft, but with it they are also nigh on invincible, since "
-"their runes cause the physical blows of their enemies to deal less damage "
-"than would be expected."
+"Dwarvish Fighters wield mighty battle axes and hammers, which make them "
+"feared opponents in close range combat. They are excellent in mountainous "
+"terrain or underground. Though not swift, their power and endurance more "
+"than compensate."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:5
-msgid "Dwarvish Runesmith"
-msgstr ""
+#: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:4
+#, fuzzy
+msgid "Dwarvish Thunderer"
+msgstr "Riimuherra"
 
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:22
+#: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:18
 msgid ""
-"Dwarvish runesmiths, now practiced at their craft, carve arcane runes into "
-"their weapons and armor. These runes infuse the runesmith's blows with power "
-"and accuracy, and disrupt the blows of their enemies, causing them to strike "
-"softly, weakly and on the armor of the defender."
+"When the men of Wesnoth first encountered the dwarves, they were mystified "
+"by the power of the Dwarvish Thunderers, who were able to hurl death from "
+"afar through the apparatus of these strange ... 'wands' they carried into "
+"battle. After the peace instituted by the Ka'lian came into effect, "
+"Haldric's people, not understanding these weapons, and certainly unable to "
+"make any of their own, realized they were lucky to no longer be fighting the "
+"dwarves, and vowed never to do so again."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:5
-msgid "Dwarvish Runner"
+#: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:4
+msgid "Goblin Rouser"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:23
+#: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:28
 msgid ""
-"Those dwarves capable of moving quickly are made lightly-armored scouts.  "
-"Dwarves' natural endurance serves the runners well, who are trained to throw "
-"their axes to protect themselves on patrol."
+"Standard bearers are an oddity amongst goblins. A goblin who has survived "
+"enough battles to be considered a veteran is rare enough, and it is rarer "
+"still for the other goblins to recognize and respect his veteran status. "
+"Nonetheless, a rouser's frenzied goading effectively steels the younger at "
+"arms to fight harder and longer before they die.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:5
-msgid "Steamcopter"
-msgstr ""
+#: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:4
+#, fuzzy
+msgid "Goblin Spearman"
+msgstr "Keihäsmies"
 
-#: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:20
+#: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:20
 msgid ""
-"With the aid of steam genies, Steamcopters are able to move faster and carry "
-"more bombs than Gyrocopters."
+"In any litter of orcs, several are born much smaller and weaker than the "
+"rest. These runts are called 'Goblins' and are looked down on by the rest of "
+"their kin. In battle, these are given the most meager of equipment, and are "
+"used as a shield to give the Warlords time to prepare the real assault.\n"
+"\n"
+"Some speculate that the existence of these creatures is the beginning of a "
+"failure of the orcish bloodline, though no one knows enough of their history "
+"to state anything conclusive."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:5
-msgid "Steamwheel"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:4
+msgid "Outlaw"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:20
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:18
 msgid ""
-"Some Dwarves use strange vehicles that can move fast without a horse. It is "
-"said that these great wheeled vehicles are powered by invisible steam "
-"genies, thus they are called 'Steamwheels'."
+"After some years of service, former 'footpads' rise up in the ranks of their "
+"fellow outlaws. Having proven themselves in combat, they are given more "
+"dangerous tasks, and a greater share of the spoils. Though many opponents "
+"would mock their choice of weaponry, the outlaws are well aware of its "
+"deadly capacity, and also of the ready availability of ammunition. Outlaws "
+"are somewhat ill at ease fighting during the day, preferring the cover of "
+"nightfall."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:32
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:33
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:32
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:33
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:33
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:34
-msgid "slam"
-msgstr "läimäys"
-
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:5
-msgid "Thunderwheel"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:114
+msgid "female^Outlaw"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:20
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:4
+msgid "Bandit"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:18
 msgid ""
-"With the help of one more steam genie, those noisy vehicles are able to move "
-"faster than horses."
+"Bandits are a motley collection of men, most of dubious background. They are "
+"the strong arm of any organized group of criminals, and though they may lack "
+"in finesse, or intelligence, they excel at their preferred task of pummeling "
+"victims into submission. Like any sort of outlaw, they're not comfortable "
+"fighting in broad daylight, being used to working at night."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:5
-msgid "Warwheel"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:4
+msgid "Footpad"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:21
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:19
 msgid ""
-"Warwheels are faster and more heavily armored than Steamwheels, and can "
-"breach enemy lines with their fearsome charge."
+"These petty criminals are often derisively called 'footpads' by their "
+"superiors, for they are tasked with any job that requires a great deal of "
+"running around, often being employed as couriers, or scouts. The endurance "
+"and skill on their feet that comes of this serves them well in combat, and "
+"despite their pitiable weaponry, they are quite good at harrying their "
+"enemies, especially under cover of darkness."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:5
-msgid "Brigand"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:135
+msgid "female^Footpad"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:18
-msgid ""
-"Mounted and wielding wicked-looking sickles, brigands left behind the "
-"farming life to stalk Wesnoth's lonely backroads in small bands, robbing "
-"travelers.  They also carry crude crossbows but are not very skilled with "
-"them."
-msgstr ""
-
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:36
-#: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:37
-msgid "sickle"
-msgstr ""
-
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:26
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:26
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Dangerous and ruthless, they "
@@ -2386,37 +318,41 @@ msgid ""
 "enforcment forces."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:83
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:84
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:38
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:49
+msgid "mace"
+msgstr "helanuija"
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:84
 msgid "sling"
 msgstr "linko"
 
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:131
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:131
 msgid "female^Fugitive"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:134
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:134
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:5
 msgid "Highwayman"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:25
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:25
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:5
 msgid "Huntsman"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:25
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:25
 msgid ""
 "Huntsmen have spent their lives in the backwoods and swamps of their "
 "wilderness homes.  They track anything that moves in their territory, "
@@ -2424,29 +360,31 @@ msgid ""
 "any prey."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:5
-msgid "Raider"
-msgstr ""
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:45
+msgid "dagger"
+msgstr "tikari"
 
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:33
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:99
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:92
+msgid "bow"
+msgstr "jousi"
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:4
+#, fuzzy
+msgid "Poacher"
+msgstr "Peitsimies"
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:20
 msgid ""
-"After a four or five robbings any Brigands that last that long will usually "
-"find a sword of some type. Usually this is a sabre because fencers are their "
-"most regular prey as they often wander around lonely backroads looking for a "
-"fights most of the time. They also usually build or buy (or steal) a better "
-"crosbow and their accuracy and skill have both improved with practice."
+"Poachers rely on their hunting experience and are most valuable at night and "
+"in forests and swamps."
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:36
-#: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:37
-msgid "sabre"
-msgstr "säilä"
-
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:5
 msgid "Ranger"
 msgstr ""
 
-#: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:25
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:25
 msgid ""
 "Rangers are wild men and masters of forest and hills.  They are excellent "
 "trackers, scouts, and archers, moving freely through the countryside under "
@@ -2454,1075 +392,381 @@ msgid ""
 "them in the dungeon than put their abilities to use."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:5
-msgid "Ahadath"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:52
+msgid "sword"
+msgstr "miekka"
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:5
+msgid "Ruffian"
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:18
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:19
 msgid ""
-"The Kalifa uses these Hillmen as their foot force.  The are versatile and "
-"excell in hilly terrain."
+"Some men without particular skills cannot or will not make an honest living. "
+"Those that attempt to make their way through life by the heavy end of a "
+"stick, are known as 'Ruffians'.  With enough experience they can learn to "
+"swing a bigger club or throw things, but not both."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:73
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:74
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:98
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:99
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:58
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:59
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:64
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:65
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:99
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:100
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:72
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:73
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:58
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:59
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:66
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:67
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:58
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:59
-msgid "composite bow"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:36
+msgid "club"
+msgstr "puunuija"
+
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:4
+msgid "Thug"
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:5
-msgid "Amir"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:18
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:19
 msgid ""
-"The Amir form the backbone of any Kalifa foot advance.  They are often sent "
-"against fortified enemy positions where their valor and skill with a sword "
-"allows them to assault seemingly inpenetrable defenses."
+"Thugs come from a wide variety of sources; while a few are born into "
+"thuggery, many are former soldiers deemed unfit to serve in the army or "
+"peasants thrown off their lands. They quickly become thugs as a means of "
+"sustenance. Regardless of their background, they all share the practice of "
+"beating their victims with large clubs."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:22
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:23
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:66
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:67
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:62
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:63
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:58
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:59
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:23
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:24
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:67
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:68
-msgid "long sword"
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:4
+msgid "Trapper"
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:5
-msgid "Arif"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:18
+#: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:19
 msgid ""
-"The Arif are made up of the more defensive minded Amir veterans.  They have "
-"become very skilled in using their shield to tire and stun their enemies."
+"Trappers usually work supplying food for bandits and outlaws. Their hunting "
+"experience makes them most valuable at night and in forests and swamps."
 msgstr ""
 
-#: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:32
-#: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:33
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:106
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:107
-#: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:31
-#: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:32
-#: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:31
-#: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:32
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:107
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:108
-msgid "shield bash"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ekim.cfg:5
-msgid "Ekim"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ekim.cfg:24
-msgid ""
-"Ekim use their knowledge of ancient medicine and herbal concoctions to "
-"quickly bring the Kalifa soldiers back to the front lines."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:5
-msgid "Ekim Haram"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:26
-msgid ""
-"These sages have reached the absolute epitome medical knowledge and freely "
-"use their herbal concoctions on themselves without fear of side-effects."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:5
-msgid "Elder Falcon"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
-msgid ""
-"These falcons have been through many perils and somehow managed to surivive "
-"them.  Their dives can be so fast that stories abound of them taking a foe's "
-"head clean off."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:50
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:51
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:52
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:53
-msgid "beak"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:5
-msgid "Elite Ghazi"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:18
-msgid ""
-"The Elite Ghazi are simply heros among their people.  Winner of countless "
-"combats and harbingers of victory."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:5
-msgid "Falcon"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:5
-msgid "Ghazi"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:18
-msgid ""
-"The Ghazi rise from only the most talented and fiercest fighters among the "
-"Ahadath."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:5
-msgid "Ghaznid"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:18
-msgid ""
-"A Ghaznid charge is a fearsome thing to behold.  A huge weight of man, "
-"metal, and horse barring down upon one with lance at level has caused many a "
-"many to flee in terror."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:27
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:28
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:22
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:23
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:23
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:24
-msgid "lance"
-msgstr "peitsi"
-
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:5
-msgid "Ghulam"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:19
-msgid ""
-"The Ghulam wear truly heavy armor, and thus close with a single high impact "
-"lance charge in order to save their poor horses' stamina before switching "
-"over to their trusty maces."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:5
-msgid "Ghulam al Rami"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:20
-msgid ""
-"Ghulam al Rami combine the some fo the best features of the karadis and the "
-"Ghulam.  They also specially modify their heavy armor to protect them from "
-"enemy arrows so they can use their bows with relative impunity.  Ghulam al "
-"Rami also aquit themselves well during melee with a heavy mace."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:5
-msgid "Immortal"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:19
-msgid ""
-"These Arif have become so skilled that thier foes wonder whether they can "
-"die at all."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:5
-msgid "Karadis"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:19
-msgid ""
-"Karadis are excellent horsemen and few can shoot as well from horseback as "
-"they.  They love to circle and harass enemies from afar while using their "
-"superior speed to avoid hevy counter attack.."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:24
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:25
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:23
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:24
-msgid "cavalry sword"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:5
-msgid "Life Guard"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:19
-msgid ""
-"Only the greatest mounter warriors in the land are taken into the Life Guard."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:5
-msgid "Mamluk"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:20
-msgid ""
-"Mamluks are the absolute best shots from among the Karadis and are allotted "
-"the best horses so this skill does not go to waste."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:5
-msgid "Mubarizan"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:19
-msgid ""
-"Mubarizan take pride in always manning the front lines of an offensive.  "
-"They regularly take down heavily fortified castles and seldom fail to "
-"inflict grievous losses on their foemen."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:5
-msgid "Naffatun"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:23
-msgid "Naffutun use naptha to show their enemies true fear."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:27
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:28
-msgid "naptha throw"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:5
-msgid "Rami"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:18
-msgid ""
-"Rami frequently use burning arrows to set fire to enemy fortifications and "
-"generally sow terror amongst the enemy.  Such tactics may also have other "
-"uses in a land of many strange wonders..."
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:59
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:60
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:60
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:61
-msgid "fire arrow"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:5
-msgid "Rami al Nuri"
-msgstr ""
-
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:19
-msgid ""
-"The maelstrom created by even a few Rami al Nuri can turn the tide of many a "
-"battle.  Use them wisely."
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Assassin.cfg:5
-msgid "Naga Assassin"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Hunter.cfg:19
-#: Extended_Era/units/standard/Naga_Assassin.cfg:20
-msgid ""
-"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
-"are naturally resistant to poison, they have no qualms about hunting with "
-"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
-"have been known to slay many kinds of prey."
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:5
-msgid "Naga Depthstalker"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:23
-msgid ""
-"Some nagas, whether through cowardice or cunning, develop a knack for "
-"surviving in darker depths of the water. After special training, this "
-"knowledge can develop into an entirely different branch of combat, although "
-"it is just as deadly. Naga Depthstalkers are especially valued as brood "
-"guardians, where they keep watch over eggs laid in hidden caves.\n"
-"\n"
-"Special Notes:"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Depthstalker.cfg:175
-msgid "Nagini Depthstalker"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Guardian.cfg:5
-msgid "Naga Guardian"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Guardian.cfg:23
-msgid ""
-"These heavy fighters are slower and more heavily armored than most naga and "
-"wield huge maces which they use to crush their enemies. They mostly guard "
-"naga outposts, but occasionally participate in offensive raids."
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Hunter.cfg:5
-msgid "Naga Hunter"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Sentinel.cfg:5
-msgid "Naga Sentinel"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Sentinel.cfg:24
-msgid ""
-"These heavy fighters are elite guards of the naga, choosen by their "
-"dedication and skill, their purpose is to defend their sleeping brethen from "
-"any menace or guarding their hidden cities from outside invasors until the "
-"great awake of their civilization arrive. These nagas are mostly unknow in "
-"Wesnoth since they can only be found near Naga cities."
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Warden.cfg:5
-msgid "Naga Warden"
-msgstr ""
-
-#: Extended_Era/units/standard/Naga_Warden.cfg:23
-msgid ""
-"These heavy fighters are the elite guards of the naga. They are slower and "
-"more heavily armored than most naga and wield huge maces which they use to "
-"crush their enemies. They mostly guard naga outposts, but occasionally "
-"participate in offensive raids."
-msgstr ""
-
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:5
-msgid "Orcish Shaman"
-msgstr ""
-
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:22
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:21
-msgid ""
-"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
-"tribes, they form the Orcish Council, which makes important decisions for "
-"the whole Orcish community and arbitrates the many conflicts that arise "
-"between tribes of this argumentative race. Although physically weak (for "
-"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-"draining their life."
-msgstr ""
-
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:60
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:61
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:59
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:60
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:60
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:61
-msgid "curse"
-msgstr "kirous"
-
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:5
-msgid "Orcish Warlock"
-msgstr ""
-
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:22
-msgid ""
-"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
-"tribes, they form the Orcish Council, which makes important decisions for "
-"the whole Orcish community and arbitrates the many conflicts that arise "
-"between tribes of this argumentative race. Although physically weak (for "
-"Orcs), Orcish Shamans are good spell casters and can curse their enemies."
-msgstr ""
-
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:5
-msgid "Orcish Witch Doctor"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
-msgid "Bladespinner"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:17
-msgid ""
-"The better warriors of the sidhe are known as bladespinners. They can, it is "
-"said, cut a man in three different places before he will lift his weapon."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:5
-msgid "Blizzardlord"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:18
-msgid ""
-"The Sidhe nobility, though not accepting commoners into their ranks, "
-"nonetheless pick the most skilled and loyal Snowdancers and raise them to "
-"the rank of Blizzardlord, giving them authority over the Hoarfrosters and "
-"Snowdancers. The expectation is that the Blizzardlords will keep their "
-"fellows loyal and obedient to the nobility and train new recruits."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:47
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:48
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:46
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:47
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:46
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:47
-msgid "snow wind"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Fury.cfg:5
-msgid "Fury"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Fury.cfg:17
-msgid ""
-"The fury is a peculiar sidhe warrior, half-mystic half crazed. In the heat "
-"of the battle, he will throw himself in an all-out attack, fighting untile "
-"either he or his ennemy is dead."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:5
+#: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:4
 #, fuzzy
-msgid "Hoarfroster"
-msgstr "puraisu"
-
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:17
-msgid ""
-"Some Sidhe commoners long for the prestige of their magic-using betters. "
-"They try with all their might to master the art of casting lightning at "
-"their foes with deadly precision, but find it is beyond them. At the last, "
-"however, they discover that there is an element they can somewhat control -- "
-"frozen water. This is their claim to greatness."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
-msgid "Raindancer"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:17
-msgid ""
-"The sidhe nobility are powerful mages. They have concentrated their powers "
-"on the calling of lighting from an otherwise clear sky, and their dancing "
-"among the lightning is what gave them their name of raindancers. Alas, the "
-"young and brash noblemen are uninterested in study, and more likely to go "
-"practice their swordplay than their magic."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:46
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:47
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:46
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:47
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:46
-#: Extended_Era/units/standard/Sidhe_Raindancer.cfg:47
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:47
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:48
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:46
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:47
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:50
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:51
-msgid "lightning"
-msgstr "salama"
-
-#: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:5
-msgid "Shadowdancer"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:21
-msgid ""
-"Some may look down upon the shadowdancer's specialty, but they would be well "
-"advised not to do so in his face, lest they wish to have their sword in "
-"their back."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:5
-#, fuzzy
-msgid "Snowdancer"
-msgstr "Peitsimies"
-
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:17
-msgid ""
-"The Sidhe nobility do not lightly accept the fact that some among their "
-"subjects seek to join the ranks of the mages, but they are pragmatic and "
-"acknowledge that even weak ice magic is a useful supplement to their own "
-"skills, as long as its practitioners remember their place. Therefore, they "
-"have established the rank of Snowdancer as a reward for Hoarfrosters who "
-"excel in both skill and loyalty."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
-msgid "Sidhe Ancestor"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:21
-msgid ""
-"Revered warriors of old roam through the woods of the sidhe, visible only "
-"due to their shining silver swords. They are only partially present in the "
-"mortal realm, and wounds close as if they had never existed. Their voice can "
-"whisper in the wind the words that chill the hearts of their ennemies."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:25
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:26
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:26
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:27
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:25
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:26
-msgid "ancient blade"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:50
-#: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:51
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:51
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
-msgid "requiem"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:5
-msgid "Sidhe Forefather"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:22
-msgid ""
-"The greatest warriors of the sidhe are far from gone. When you hear their "
-"death chant, echoing through the trees, know that their silver blades are "
-"also near."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:5
-msgid "Warrior Spirit"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:21
-msgid ""
-"The great sidhe warriors of times past are not quite gone. They roam through "
-"the forests of their former homes, seeking to perform the feats of arms they "
-"did in the past, and death is no obstacle..."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:5
-msgid "Stormlord"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Stormlord.cfg:18
-msgid ""
-"The stormlord has spent his entire life studying magic. He has given up "
-"weapon practice and most physical pursuits for this. Many wild elves "
-"distrust them because of this, but they fear them even more. And if a sidhe "
-"fears someone..."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:5
-msgid "Tempest"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Tempest.cfg:17
-msgid ""
-"Elder mages, seen as sages among the sidhe are given the name of tempest. "
-"They call down lightning with ease and use a magic whose raw destructive "
-"power is almost unequaled."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:5
-msgid "Thunderblade"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:18
-msgid ""
-"When the first sidhe lord died in battle, the shards of his mighty sword "
-"were collected and kept preciously by the fines wild elf mages. If a sidhe "
-"shows himself a great warrior and has the magic of the nobleborn, he might "
-"be awarded a thunderblade, a special sword enchanted with a fragment of the "
-"sidhe lord's great weapon."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:22
-#: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:23
-msgid "thunderblade"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:5
-msgid "Tracker"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Tracker.cfg:21
-msgid ""
-"Among the finest scouts known, wild elf trackers are swift and versatile, "
-"skilled in both hand to hand and ranged combat when using short spears. "
-"Their complete lack of armor is a liability, though."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:5
-msgid "Veiledblade"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:20
-msgid ""
-"Not all sidhe like to fight up front. The shadowy veiledblades can slip in "
-"through the ennemy's defense, and stealthily hit an unexpecting foe, often "
-"mortally so."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:5
-msgid "Wanderer"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wanderer.cfg:21
-msgid ""
-"The sidhe sometimes have more lonesome among them who prefer the tracking "
-"and scouting to actual combat. These, known as wanderers, are armed with "
-"short spears that they use quite ... convincingly, though their real "
-"usefulness is for running ahead. Their extreme swiftness comes, however, at "
-"a price as they fight almost armorless and die fast in direct combat."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wardancer.cfg:5
-msgid "Wardancer"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wardancer.cfg:18
-msgid ""
-"Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
-"unbelievable, but he is an amateur compared to a mighty wardancer."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:5
-msgid "War Mage"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Warmage.cfg:17
-msgid ""
-"Few sidhe are capable of staying away from battle for long. The war mages "
-"are wild elf nobility who, though trained as mages, spend most of their time "
-"sword in hand. Their prowesses with the sword are easily those of a warrior "
-"and their magic is a welcome ally."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:5
-msgid "Whirlwind"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:21
-msgid ""
-"The whirlwind is a wildblade who has survived many battles. A legend in his "
-"own way, he is feared by all sidhe who fear his rage. When he wishes to kill "
-"nothing and no one can stop him."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wildblade.cfg:5
-msgid "Wildblade"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Wildblade.cfg:17
-msgid ""
-"A wildblade, once its battle rage has started, is a terrifying thing to "
-"behold. Hitting left and right with a strength and a devotion rarely seen, "
-"he cares not for pain, or even death..."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:5
-msgid "Windlasher"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Windlasher.cfg:17
-msgid ""
-"The sidhe who dedicates himself to the windlasher's life will find it a hard "
-"one. He must stop the training in arms and devote himself to the study of "
-"magic. Few choose this path, but it is a worthy one."
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:5
-msgid "Windrunner"
-msgstr ""
-
-#: Extended_Era/units/standard/Sidhe_Windrunner.cfg:22
-msgid ""
-"The windrunners are the finest scouts available to the sidhe. Their speed is "
-"unbelievable, and their prowesses with their spears, whether thrown or in "
-"hand to hand, are amazing. They might die fast in direct combat, though."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:5
-msgid "Steppe Flanker"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:23
-msgid ""
-"Some goblins have discovered that the skills gained on the hunt can be put "
-"to use on the battlefield. While goblins are not overly welcome among the "
-"raiding parties, they are undeniably useful and so their presence is "
-"tolerated, if grudgingly."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:69
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:70
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:65
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:66
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:66
-#: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:67
-msgid "harpoon"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:5
-msgid "Steppe Hunter"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:22
-msgid ""
-"The cruel life on the steppes tends to weed out the weak early on and harden "
-"those that remain. For this reason goblins are nowhere near as common on the "
-"steppe as they are elsewhere. Those that do survive often make themselves "
-"useful as scouts or scavengers. In hunting parties they specialise in the "
-"use of barbed harpoons to lame prey, allowing an easier kill for their "
-"larger orcish bretheren."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:5
-msgid "Steppe Striker"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:23
-msgid ""
-"Rather then weaken foes for others to finish off, Strikers seek the killing "
-"blow themselves. However they do not possess the physique to survive long in "
-"a straight fight. Instead they dart around the main fracas, seeking to "
-"surprise distracted enemies."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:5
-msgid "Steppe Bladesman"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:19
-msgid ""
-"Those orcs who excell in the use of the battle axe are informally known to "
-"their bretheren as Bladesmen. Disregarding all flair or style, Bladesman "
-"fight with simple and brutal strength, hacking directly at whatever stands "
-"before them. Any skill gained through battle only builds on what nature has "
-"already granted them."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:5
-msgid "Icewind Drover"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:22
-msgid ""
-"A Herder of sufficiant ability can become what the Steppe Orcs call a "
-"Drover, the elite of the IceWind order. With age and experience in the "
-"control of elemental magics. Some have claimed to be capable of summoning "
-"forth fierce blizzards from a clear sky, an unlikely feat unconfirmed by "
-"outsiders. When asked about the mechanics of their abilities they often "
-"answer by refering to themselves as 'conduits'. Just what it is that they "
-"channel is never revealed. \n"
-"The tribespeople claim to notice a blue tinge that begins to pervade their "
-"normally brown complexion and a crystalline hardness of their skin. Other "
-"steppe orcs whisper that this is because their hearts pump not blood, but "
-"ice. \n"
-"\n"
-"Special Notes: The Frost attack inflicted by the IceWind Drover is magical "
-"in nature and always has a high chance of hitting an enemy."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:72
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:73
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:74
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:75
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:72
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:73
-#, fuzzy
-msgid "frostbite"
-msgstr "puraisu"
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:5
-msgid "Icewind Herder"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:24
-msgid ""
-"There is an old tale about the creation of the the IceWind order: A gang of "
-"children were fishing when a very young female, hooking something bigger "
-"then she could land, was dragged into the subzero waters. She did not "
-"reappear. Two days later, by which time the tribe had nearly forgotton the "
-"loss, a sentry witnessed an unnerving spectacle. The very same girl, "
-"delirious with exhaustion and deathly pale, was spotted dragging herself "
-"from the pond. \n"
-"After the incident the girl, whose name is a closely guarded secret, was "
-"never the same. The tribespeople told stories of seeing her freeze a bear "
-"solid, simply by looking at it, others claimed that she went out by night to "
-"converse with unseen things that moved in the water. Nobody dared approch "
-"her about these rumours, lest they prove to be true. \n"
-"She became the founder of the IceWind order, every year she would select "
-"children from the tribe to train. Whatever she taught them, it granted them "
-"a mysterious influence over the elements of their habitat. The Herders "
-"themselves describe this influence as 'union'. Within her lifetime the order "
-"became an accepted part of the clan. \n"
-"The child refused outright to reveal what had happened in the frozen pool "
-"and when she died many years later the secret died with her. \n"
-"\n"
-"Special Notes: In battle Herder's are able to conjure up a field of lethal "
-"cold. This is magical in nature and always has a high chance of damaging an "
-"enemy."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:5
-msgid "Icewind Master"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:22
-msgid ""
-"Masters are a rare thing indeed, especially in a race with little aptitude "
-"for magic. There is almost never more then one in each generation and, as "
-"often as not, no Masters will emerge for decades. Those that do reach this "
-"pinnacle of their order are often of reclusive nature, as their power "
-"seperates them from the main clan. However the reasons for their "
-"estrangement also grant them great respect from their brethren. \n"
-"\n"
-"Special Notes: The Frost attack inflicted by the IceWind Master is magical "
-"in nature and always has a high chance of hitting an enemy."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:5
-msgid "Steppe Juggernaut"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:22
-msgid ""
-"Some of the Steppe Orcs aspiring to power realise that they actually have a "
-"certain aptitude for the charge. Abandoning the pursuit of leadership, these "
-"Juggernauts fling themselves on the enemy with utterly ferocious "
-"recklessness. In one legendary incident, likely made greater with each "
-"telling, an entire squad of elves scattered and ran at the sight of a single "
-"Juggernaut bearing down on them. \n"
-"\n"
-"Special Notes: When used on the offensive the intimidation of a Juggernauts "
-"charging flail attack decreases the damage he takes in retaliation. This "
-"only effects enemies of equal or lesser level."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:5
-msgid "Steppe Massif"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:20
-msgid ""
-"Clad in crude armour with full-face helms and swinging weapons too heavy for "
-"many humans to lift, the hulking Massifs are a terrifying spectacle. They "
-"invariably continue their use of the battleaxe, with fearful results."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Outcast.cfg:5
-msgid "Steppe Outcast"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Outcast.cfg:22
-msgid ""
-"Not all initiates to the IceWind order are successful. Some lack the "
-"necessary patience, others are found wanting in mental edurance. However "
-"being excluded from the order cannot make them forget what they have "
-"learned. \n"
-"When the Outcasts first began performing supposedly forbidden magic on their "
-"own, the IceWind order raised an uproar in the tribal council. Under threat "
-"of exile the Outcasts were forced to ceace their activities. But their order "
-"survived, albeit in a different form. Rather then mimic their counterparts, "
-"they developed a parallel sect taht exists on the fringes of the tribe. The "
-"magics worked by the Outcasts are undeniably crude, but have great practicle "
-"use. However they are denied the mystical union with their icy home, that is "
-"a right reserved for the Herders. \n"
-"\n"
-"Special Notes: The strike of the Outcast is of a magical variety and always "
-"has a high chance of success."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:25
-#: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Outcast.cfg:26
-#: Extended_Era/units/standard/Steppe_Orc_Outcast.cfg:27
-msgid "frigid touch"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:4
-msgid "Steppe Pariah"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:21
-msgid ""
-"Those rejects of the IceWind order who achieve veteran status in their art "
-"are looked upon as akin to minor criminals. However not even the Herders can "
-"deny that they are more then a little useful. Pariahs have little loyalty to "
-"the clan and rarely fight except for an incentive. When they do, they "
-"specialise in flushing foes from fortified positions or difficult terrain. \n"
-"\n"
-"Special Notes: The strike of the Pariah is of a magical variety and always "
-"has a high chance of success."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:5
-msgid "Steppe Rigid"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:21
-msgid ""
-"Aptly named, the Rigid are a near unbreakable foe. They often form fall-back "
-"positions behind the battle lines. Many a time the Rigid have been "
-"sacrificed, delaying the enemy while the main force recovers and regroups "
-"behind their unyielding wall of flesh, bone and iron. Their role is hardly a "
-"glorious one and usually comes to an end jammed into a choke point against "
-"hopeless odds. \n"
-"\n"
-"Special Notes: Due to their lack of weaponry Rigid can not attack the enemy. "
-"When attacked however, they retaliate with heavy strikes with the front of "
-"their shields."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:5
-msgid "Steppe Savage"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:22
-msgid ""
-"Unlike humans or elves, most orcs find a barbaric thrill in the chaos and "
-"blood of battle. Some so much so that the experience pushes their psyche, "
-"unstable and voilent at the best of times, dangerously close to the brink. "
-"Teetering on the fine edge between sanity and burning instinct, they are "
-"feared nearly as much by their comrades as by their enemies. Hurling "
-"themselves bodily into the fray, they attack enemies solely with their fists "
-"and teeth. Savages cease to use armour at all, allowing them greater speed "
-"and ease of movement but sacrificing the protection it gives. Few have been "
-"known to survive beyond early adulthood. \n"
-"\n"
-"Special Notes: When fighting, Savages enter a voilent frenzy, driving home "
-"their attack until their own death or that of their target."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:44
-#: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:45
-#, fuzzy
-msgid "frenzy"
-msgstr "tuli"
-
-#: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:5
-msgid "Steppe Shieldbearer"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:21
-msgid ""
-"Some soldiers are given a special role, quite different from any of their "
-"comrades. Shieldbearers carry no real weapon at all. Their unique duty is to "
-"protect the wounded, patch up holes in the line and, if all looks to be "
-"lost, hold off the enemy long enough to cover their retreating army. It has "
-"often been said by the Steppe Orcs that while the Shieldbearers have never "
-"secured victory, they have numerous times prevented utter defeat. \n"
-"\n"
-"Special Notes: Due to their lack of weaponry Shieldbearers can not attack "
-"the enemy. When defending however, they retaliate with heavy strikes with "
-"the front of their shields."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:5
-msgid "Steppe Skewer"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:22
-msgid ""
-"While orcs may not be renowned for their intellectual capacity, it is well "
-"within their powers of thinking to realise that a longer spear will allow "
-"them to impale an enemy from greater distance. In addition, Skewers delight "
-"in crafting barbed heads for their spears, further increasing their grisly "
-"effectiveness.\n"
-"\n"
-"Special Notes:"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:5
-#, fuzzy
-msgid "Steppe Spearman"
-msgstr "Keihäsmies"
-
-#: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:19
-msgid ""
-"The orcs of the steppe learnt early on that their axes were simply not "
-"suitable against all foes. In accordance with this, some warriors forgo "
-"further usage of the axe and take up short spears. While neccesary, the "
-"change is often somewhat awkward."
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:5
-msgid "Steppe Stoic"
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:22
-msgid ""
-"The Stoic are embodiments of endurance, plain and simple. They are "
-"characterized by sheer stubbornness and refusal to go down even under the "
-"heaviest of blows. Time and again a foe has struck down a Stoic and thought "
-"him dead, only to see the hardy orc lift himself from among the corpses of "
-"the dead, raise his shield and reasume his position. \n"
-"\n"
-"Special Notes: Due to their lack of weaponry Stoic may not attack the enemy. "
-"When attacked however, they retaliate with heavy strikes with the front of "
-"their shields. "
-msgstr ""
-
-#: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:5
-#, fuzzy
-msgid "Steppe Warrior"
+msgid "Naga Fighter"
 msgstr "Soturi"
 
-#: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:19
+#: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:21
 msgid ""
-"The rank and file Steppe Orc soldier epitomizes the qualities of his clan. "
-"Hardened, resiliant and, when necessary, desperately savage. However, while "
-"loyal to their clan, they have little restraint and are often hard to "
-"control. The inherent strength of their race and a harsh life of continuous "
-"conflict take the place of formal training. Not known for their finesse, "
-"Steppe Orcs fight with heavy two-handed battle axes."
+"The serpentine naga are one of the few races capable of any meaningful "
+"mobility in water, giving them a whole world forbidden to land dwellers. "
+"Still, they are not true creatures of the sea, and their inability to "
+"breathe water leaves them in trepidation of the abyss. They are small, and "
+"somewhat frail in form, but often much more nimble than their opponents."
 msgstr ""
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:4
-msgid "Troll Shaman"
-msgstr "Peikkoshamaani"
+#: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:71
+#, fuzzy
+msgid "Nagini Fighter"
+msgstr "Soturi"
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:25
-msgid ""
-"Troll shamans are the mystical leaders of the trolls. Though not as strong "
-"or tough as other trolls, their true power lies in their fire magic, which "
-"they use to blast enemies with gouts of fire."
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:4
+msgid "Orcish Leader"
 msgstr ""
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:57
-#: Extended_Era/units/standard/Troll_Shaman.cfg:58
-msgid "flame blast"
-msgstr "tulenleimaus"
-
-#: Extended_Era/units/standard/Wose_Shaman.cfg:6
-msgid "Wose Shaman"
-msgstr ""
-
-#: Extended_Era/units/standard/Wose_Shaman.cfg:26
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:21
 msgid ""
-"These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies.\n"
+"Orcish Leaders are the chiefs of their tribe. They make the important "
+"decisions and lead their people into battle. They carry a bow out of "
+"necessity, but are much more skilled with the sword; all in all, they are "
+"powerful fighters. Their natural leadership skills make them very precious "
+"in battle: if the Leader is lost, so is the battle.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Wose_Shaman.cfg:74
-#: Extended_Era/units/standard/Wose_Shaman.cfg:75
-msgid "entangle"
-msgstr "sitominen"
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:4
+msgid "Orcish Ruler"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:20
+msgid ""
+"Orcish Rulers are the chiefs of their tribe. They make the important "
+"decisions and lead their people into battle. They carry a bow out of "
+"necessity, but are much more skilled with the sword; all in all, they are "
+"powerful fighters. Their natural leadership skills make them very precious "
+"in battle: if the Ruler is lost, so is the battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:4
+msgid "Orcish Sovereign"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:21
+msgid ""
+"Orcish Sovereigns are the chiefs of their tribe. They make the important "
+"decisions and lead their people into battle. They carry a bow out of "
+"necessity, but are much more skilled with the sword; all in all, they are "
+"powerful fighters. Their natural leadership skills make them very precious "
+"in battle: if the Sovereign is lost, so is the battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:4
+#, fuzzy
+msgid "Troll Whelp"
+msgstr "Peikkoshamaani"
+
+#: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:21
+msgid ""
+"Describing a troll as a whelp is something of an oxymoron, given that their "
+"bodies are already much hardier than that of a grown man. They are clumsy "
+"and not yet capable of walking properly, forced instead to shamble about on "
+"all fours, but any inhibition this causes them is more than made up for by "
+"the raw strength of their race.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:5
+msgid "Dark Adept"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:24
+msgid ""
+"To attract any practitioners, the lure of black magic must be a great prize "
+"indeed, for anyone caught practicing the art in the civilized world is "
+"subject to a death sentence. And yet there are those who pursue this art, "
+"for the prize offered is nothing less than immortality. Hidden away in "
+"secret cults, or initiated into the dark orders of the underworld, the "
+"training which these fanatics must endure often drives them to exhaustion "
+"and enfeeblement.\n"
+"\n"
+"In such condition, their only weapon is the craft they have so committed "
+"themselves to learning.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:172
+msgid "female^Dark Adept"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:4
+msgid "Dark Sorcerer"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:21
+msgid ""
+"The dread inspired by black magic comes chiefly from how little is known "
+"about it by the common man. Dark sorcerers have begun to unlock the secrets "
+"of life and death, quickly becoming masters of inflicting pain and anguish.\n"
+"\n"
+"The ultimate prize of the dark arts is complete domination of death and "
+"life. Dark Sorcerers may eventually learn how to manipulate life and death "
+"by reanimating corpses, skeletons, and spirits. The most corrupt and power-"
+"hungry will attempt to completely conquer death through the transformation "
+"to lichdom and attainment of a dreadful immortality.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:4
+msgid "Lich"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:21
+msgid ""
+"A lich is the physical embodiment of black magic's first goal: the quest to "
+"achieve immortality. Though a great deal is sacrificed in the rebirth, in "
+"becoming a lich one cheats death of that which truly gives it terror. For it "
+"is the mind that is retained, and the spirit which follows, though the body "
+"may wither away.\n"
+"\n"
+"It is not known, save perhaps by the inner circles of necromancy, whether "
+"life is prolonged indefinitely or simply extended. But to even consider such "
+"a thing bears tribute to the magnitude of what they have already achieved.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:4
+msgid "Chocobone"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:20
+msgid ""
+"Riding the bones of ostrich-like large birds once used as mounts by a lost "
+"civilization, the skeletal Chocobones can move faster than most cavalry "
+"units."
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Wose.cfg:4
+msgid "Wose"
+msgstr ""
+
+#: Extended_Era_xtra_1.2/units/standard/Wose.cfg:22
+msgid ""
+"Rarely seen, even by elves, a Wose is an order of creature about which "
+"little is known. The elves are the source of most of this knowledge; they "
+"know that these beings are not descended from trees, despite the similarity "
+"in form, and they know that a wose is more closely tied to the faerie world "
+"than the elves themselves, though in a different way. The motives and "
+"workings of their kind are unknown, though most posit the obvious idea that "
+"woses are wardens of the natural world.\n"
+"\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, "
+"however, neither used to, nor quick at moving around.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#, fuzzy
+#~ msgid "dread"
+#~ msgstr "Epäkuolleet"
+
+#~ msgid "Loyalists"
+#~ msgstr "Uskolliset"
+
+#, fuzzy
+#~ msgid "Nagas"
+#~ msgstr "torahampaat"
+
+#~ msgid "Northerners"
+#~ msgstr "Pohjalaiset"
+
+#~ msgid "Undead"
+#~ msgstr "Epäkuolleet"
+
+#~ msgid "spear"
+#~ msgstr "keihäs"
+
+#~ msgid "pierce"
+#~ msgstr "lävistys"
+
+#~ msgid "blade"
+#~ msgstr "viilto"
+
+#~ msgid "staff"
+#~ msgstr "sauva"
+
+#~ msgid "impact"
+#~ msgstr "murskaus"
+
+#~ msgid "cold"
+#~ msgstr "kylmä"
+
+#~ msgid "fire"
+#~ msgstr "tuli"
+
+#~ msgid "shield"
+#~ msgstr "kilpi"
+
+#~ msgid "Lord"
+#~ msgstr "Ylimys"
+
+#~ msgid "short sword"
+#~ msgstr "lyhytmiekka"
+
+#~ msgid "missile"
+#~ msgstr "tulipallo"
+
+#~ msgid "Warrior"
+#~ msgstr "Soturi"
+
+#~ msgid "knife"
+#~ msgstr "veitsi"
+
+#, fuzzy
+#~ msgid "prey crush"
+#~ msgstr "murskaus"
+
+#~ msgid "Guard"
+#~ msgstr "Vartija"
+
+#, fuzzy
+#~ msgid "longsword"
+#~ msgstr "miekka"
+
+#~ msgid "Pikeman"
+#~ msgstr "Seiväsmies"
+
+#~ msgid "glaive"
+#~ msgstr "kalpa"
+
+#, fuzzy
+#~ msgid "Bear"
+#~ msgstr "keihäs"
+
+#~ msgid "crush"
+#~ msgstr "murskaus"
+
+#~ msgid "axe"
+#~ msgstr "kirves"
+
+#~ msgid "fireball"
+#~ msgstr "tulipallo"
+
+#, fuzzy
+#~ msgid "pincers"
+#~ msgstr "lävistys"
+
+#, fuzzy
+#~ msgid "evil eye"
+#~ msgstr "lähitaistelu"
+
+#~ msgid "fangs"
+#~ msgstr "torahampaat"
+
+#~ msgid "fist"
+#~ msgstr "nyrkki"
+
+#~ msgid "crossbow"
+#~ msgstr "varsijousi"
+
+#~ msgid "bite"
+#~ msgstr "puraisu"
+
+#~ msgid "Shadow"
+#~ msgstr "Varjo"
+
+#~ msgid "touch"
+#~ msgstr "kosketus"
+
+#~ msgid "hammer"
+#~ msgstr "vasara"
+
+#~ msgid "slam"
+#~ msgstr "läimäys"
+
+#~ msgid "sabre"
+#~ msgstr "säilä"
+
+#~ msgid "lance"
+#~ msgstr "peitsi"
+
+#~ msgid "curse"
+#~ msgstr "kirous"
+
+#, fuzzy
+#~ msgid "Hoarfroster"
+#~ msgstr "puraisu"
+
+#~ msgid "lightning"
+#~ msgstr "salama"
+
+#, fuzzy
+#~ msgid "Snowdancer"
+#~ msgstr "Peitsimies"
+
+#, fuzzy
+#~ msgid "frostbite"
+#~ msgstr "puraisu"
+
+#, fuzzy
+#~ msgid "frenzy"
+#~ msgstr "tuli"
+
+#, fuzzy
+#~ msgid "Steppe Spearman"
+#~ msgstr "Keihäsmies"
+
+#, fuzzy
+#~ msgid "Steppe Warrior"
+#~ msgstr "Soturi"
+
+#~ msgid "flame blast"
+#~ msgstr "tulenleimaus"
+
+#~ msgid "entangle"
+#~ msgstr "sitominen"
 
 #~ msgid "magic"
 #~ msgstr "loitsu"
