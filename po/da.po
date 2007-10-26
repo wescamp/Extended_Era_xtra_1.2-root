@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-09-18 22:55+0200\n"
-"PO-Revision-Date: 2007-07-16 17:58+0200\n"
+"PO-Revision-Date: 2007-10-26 17:58+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:4
 msgid "Drake Burner"
-msgstr ""
+msgstr "Brændende hestedrage"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:19
 #: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:19
@@ -29,10 +29,14 @@ msgid ""
 "This, coupled with their sheer size and clawed hands makes for a dangerous "
 "foe in combat."
 msgstr ""
+"Brændende hestedrager er få og stolte. Det er dem, som har arvet mest af den "
+"oprindelige styrke fra dragerne, specielt evnen til at spy ild. Dette sammen "
+"med deres størrelse og krogede hænder gør dem til en frygtet modstander i "
+"kamp."
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:4
 msgid "Drake Flameheart"
-msgstr ""
+msgstr "Flammehjertehestedrage"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:28
 msgid ""
@@ -43,10 +47,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Det siges at den ældste linje af hestedrager - de første efterkommere af "
+"drager - har årer med ild fremfor blod. At de kan ånde ild som de gør har "
+"givet grobund til denne overbevisning, selvom ingen, af åbenlyse årsager, "
+"har forsøgt at skære en op for at finde ud af det.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:4
 msgid "Drake Flare"
-msgstr ""
+msgstr "Flammehestedrage"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:27
 msgid ""
@@ -56,11 +66,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Hestedrager er en gammel race som er klog nok til at høre på deres egne "
+"naturlige ledere. Dem som kaldes »flammehestedrager« af deres fjender er de "
+"hestedrager som aspirerer til at blive sådanne ledere, både i krigstid og i "
+"fredstid.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:4
-#, fuzzy
 msgid "Elvish Captain"
-msgstr "Kaptajn"
+msgstr "Elverkaptajn"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:28
 msgid ""
@@ -73,11 +88,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Elvere, til forskel fra mange andre racer, vil hurtig anerkende og følge "
+"enhver af deres egne som har erfaring i kamp. Dette er i stor modsætning til "
+"menneskene, hvor lederskab ofte er et sammensurium af overbevisning og "
+"trusler. Kombinationen af deres villighed til at acceptere den viden deres "
+"ledere har, og tendensen til at vælge ledere ud fra erfaring er en af de "
+"stille styrker blandt elverne.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:4
-#, fuzzy
 msgid "Elvish Fighter"
-msgstr "Soldat"
+msgstr "Elverkæmper"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:20
 msgid ""
@@ -86,10 +108,15 @@ msgid ""
 "can grasp the basics of swordsmanship and archery in an uncannily short "
 "time, and put them to effective use on the battlefield."
 msgstr ""
+"Elvere er ikke krigsmagere af natur, men når nødvendigheden kalder, så gør "
+"deres naturlige behændighed og smidighed dem godt, det samme gør deres evner "
+"indenfor fabrikation. En elv kan forstå det grundlæggende i sværdkunst og "
+"bueskytteri indenfor en utrolig kort periode, og anvende dem effektivt på "
+"slagmarken."
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:4
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elvermarskal"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:29
 msgid ""
@@ -105,7 +132,7 @@ msgstr ""
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:4
 msgid "Death Knight"
-msgstr ""
+msgstr "Dødsridder"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:27
 msgid ""
@@ -116,11 +143,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Sagn fortælles om store krigere og generaler, som forbandet af had og en "
+"følelse af at være blevet forrådt, kom tilbage til denne verden som "
+"dødsriddere. Med de samme våben som i levende live, har de nu kommando over "
+"udøde i deres hævnmission.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:4
 msgid "Revenant"
-msgstr ""
+msgstr "Revenant"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:19
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:19
@@ -134,11 +167,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Skabningen revenant er hidkaldt for at kæmpe endnu engang. De var tidligere "
+"store krigere, men deres tid er nu glemt. Selv troldmanden, som hidkalder "
+"dem, kan kun gætte på deres fortid. Derudover er en revenant en magtfuldt og "
+"frygtløs kriger som ikke kan føle smerte, og som vil kæmpe til den bitre "
+"ende.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:4
 msgid "Skeleton"
-msgstr ""
+msgstr "Skelet"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:20
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:20
@@ -150,10 +190,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Skeletter er krigere som er dræbt i kamp og ført tilbage til verden via ond "
+"magi. Så godt som uden hjerne, og beslutsomme i deres formål, kan de ikke "
+"føle smerte, eller død, og alene tilstedeværelsen af dem vil ofte skræmme "
+"enhver væk som kunne tænkes at udfordre deres herre.\n"
+"\n"
+"Specielle bemærkninger:"
 
+# NB bemærk at der også er en Fire Drake, så navnet kan ikke være ildhestedrage
+# Armageddonhestedrage kan også være en mulighed.
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
-msgstr ""
+msgstr "Dommedagshestedrage"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:37
 msgid ""
@@ -167,6 +215,10 @@ msgid ""
 "against \n"
 "cold attacks than most other drakes."
 msgstr ""
+"Hvis det ikke var for deres rustning ville nogle hestedrager ikke være til "
+"at skelne fra rigtige drager, i det mindste ikke for den gængse mand. "
+"Skabningerne der går under navnet dommedagshestedrager er giganter som både "
+"er immune over for ild og selv har en enorm ild."
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:46
 msgid "claws"
@@ -174,12 +226,11 @@ msgstr "kløer"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:103
 msgid "fire breath"
-msgstr ""
+msgstr "ildånde"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:4
-#, fuzzy
 msgid "Fire Drake"
-msgstr "Hestedrager"
+msgstr "Ildhestedrage"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:18
 msgid ""
@@ -187,10 +238,13 @@ msgid ""
 "armor, they belch columns of flame at any who oppose them, a testament to "
 "the strength and majesty of their kind."
 msgstr ""
+"De store ildhestedrager er mestre i brugen af deres indre ild. Klædt i "
+"skinnende rustning, sender de kolonner af flammer imod enhvor som sætter sig "
+"op imod dem, et bevis på styrken og det ophøjede hos denne race."
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:4
 msgid "Inferno Drake"
-msgstr ""
+msgstr "Infernohestedrage"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:18
 msgid ""
@@ -200,11 +254,15 @@ msgid ""
 "shining, flame-colored armor is a mark of their proud and powerful caste, "
 "the ideal to which their brethren aspire."
 msgstr ""
+"De flyvende storbrande kendt som infernehestedrager er mestre i ildånde, og "
+"overgår selv deres forfædre dragerne i brugen heraf. Denne naturlige evne "
+"gør dem immune over for ild. Deres skinnende, ildfarvede rustning er et "
+"symbol på deres stolte og magtfulde kaste, idealet som deres racefæller "
+"aspirerer imod."
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:4
-#, fuzzy
 msgid "Dwarvish Fighter"
-msgstr "Soldat"
+msgstr "Dværgekæmper"
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:22
 msgid ""
@@ -213,10 +271,14 @@ msgid ""
 "terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
+"Dværgekæmpere bærer store stridsøkser og hammere, hvilket gør dem til "
+"frygtede modstandere i nærkamp. De er specielt gode i bjergrigt terræn eller "
+"under jorden. Selvom de ikke er hurtige, så mere end kompenserer deres kraft "
+"og udholdenhed for dette."
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:4
 msgid "Dwarvish Thunderer"
-msgstr ""
+msgstr "Tordendværg"
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:18
 msgid ""
@@ -228,10 +290,17 @@ msgid ""
 "make any of their own, realized they were lucky to no longer be fighting the "
 "dwarves, and vowed never to do so again."
 msgstr ""
+"Da Wesnoths mænd først mødte dværgene, blev de mystificeret af magten hos "
+"tordendværgene, som var i stand til at sprede død fra lang afstand igennem "
+"disse aparte »stave« som de bar i kamp. Efter at freden indstiftet af "
+"Ka'lian trådte i effekt erkendte Haldrics folk at de, som ikke forstod disse "
+"våben var heldige, at de ikke længere kæmpede imod dværgene, og de sværgede "
+"aldrig at ville gøre det igen."
 
+# Erfaren kriger som sætter gang i de andre (hmm, mon ikke indpisker kan bruges)
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:4
 msgid "Goblin Rouser"
-msgstr ""
+msgstr "Goblinindpisker"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:28
 msgid ""
@@ -243,11 +312,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Fanebærere er en sjældenhed blandt gobliner. En goblin som har overlevet nok "
+"slag til at blive anset for at være veteran er sjælden nok, og det er endnu "
+"sjældnere at andre gobliner ser og respekterer dennes veteranstatus. Uanset "
+"dette så vil en goblinindpisker få sine yngre soldater til at kæmpe hårdere "
+"og længere, inden de dør.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:4
-#, fuzzy
 msgid "Goblin Spearman"
-msgstr "Spydmand"
+msgstr "Goblinspydmand"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:20
 msgid ""
@@ -260,11 +335,18 @@ msgid ""
 "failure of the orcish bloodline, though no one knows enough of their history "
 "to state anything conclusive."
 msgstr ""
+"I ethvert kuld af orker, er der flere som er født mindre og svagere end de "
+"andre. Disse kaldes for »gobliner« og der bliver set ned på dem af de "
+"øvrige. I kamp modtager de det dårligste udstyr og bruges som en stødpude "
+"som kan give krigsherren tid til at forberede det rigtige angreb.\n"
+"\n"
+"Nogle spekulerer på at eksistensen af disse skabninger er begyndelsen på en "
+"fiasko i orkernes blodlinje, dog er der ingen der ved nok om deres historie "
+"til at kunne konkludere noget endeligt."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:4
-#, fuzzy
 msgid "Outlaw"
-msgstr "Fredløse"
+msgstr "Fredløs"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:18
 msgid ""
@@ -276,15 +358,20 @@ msgid ""
 "are somewhat ill at ease fighting during the day, preferring the cover of "
 "nightfall."
 msgstr ""
+"Efter nogle års service stiger tidligere landevejstyve i rang blandt deres "
+"egne. Når de har bevidst deres værd i kamp får de farligere opgaver, og en "
+"større andel af byttet. Selv om mange modstandere ser ned på deres valg af "
+"våben er de fredløse helt klar over dets dødelige muligheder, og også om den "
+"nemt tilgængelige ammunition. Fredløse er noget kede af at kæmpe om dagen og "
+"foretrækker nattens dække."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:114
-#, fuzzy
 msgid "female^Outlaw"
-msgstr "Flygtning"
+msgstr "Fredløs"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:4
 msgid "Bandit"
-msgstr ""
+msgstr "Bandit"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:18
 msgid ""
@@ -294,10 +381,15 @@ msgid ""
 "victims into submission. Like any sort of outlaw, they're not comfortable "
 "fighting in broad daylight, being used to working at night."
 msgstr ""
+"Banditter er en blandet samling af mænd, de fleste med tvivlsom baggrund. De "
+"er musklerne i enhver organiseret gruppe af kriminelle, og selv om de har "
+"mangler i finesse eller intelligens, er de fremragende i deres foretrukne "
+"erhverv med at tryne ofre til undertrykkelse. Som andre fredløse er de ikke "
+"glade for at kæmpe i dagslys, da de normalt arbejder om natten."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:4
 msgid "Footpad"
-msgstr ""
+msgstr "Landevejstyv"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:19
 msgid ""
@@ -308,11 +400,15 @@ msgid ""
 "despite their pitiable weaponry, they are quite good at harrying their "
 "enemies, especially under cover of darkness."
 msgstr ""
+"Disse ynkelige kriminelle kaldes ofte for »landevejstyve« af deres "
+"overordnede, for de har jobbet med at løbe landevejene tynde. De bliver ofte "
+"anvendt som kurerer eller spejdere. Udholdenheden og evnerne til fods kommer "
+"dem ofte til gavn i kamp, og på trods af deres ynkelige våben er de ganske "
+"gode til at genere deres fjender, specielt i ly af natten."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:135
-#, fuzzy
 msgid "female^Footpad"
-msgstr "Troldkvinde"
+msgstr "Landevejstyv"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
@@ -348,17 +444,19 @@ msgstr ""
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:5
 msgid "Highwayman"
-msgstr ""
+msgstr "Landevejsrøver"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Highwayman.cfg:25
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
+"Bevæbnet med en stor økse er landevejsrøvere de sidste du ønsker at møde på "
+"en mennesketom vej sent om natten."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "Jæger"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Huntsman.cfg:25
 msgid ""
@@ -378,15 +476,16 @@ msgid "bow"
 msgstr "bue"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:4
-#, fuzzy
 msgid "Poacher"
-msgstr "Bueskytte"
+msgstr "Krybskytte"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:20
 msgid ""
 "Poachers rely on their hunting experience and are most valuable at night and "
 "in forests and swamps."
 msgstr ""
+"Med baggrund i deres erfaring er disse krybskyttere effektive om natten i "
+"skove og sumpe."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:5
 msgid "Ranger"
@@ -406,7 +505,7 @@ msgstr "sværd"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:5
 msgid "Ruffian"
-msgstr ""
+msgstr "Bandit"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:19
 msgid ""
@@ -415,6 +514,10 @@ msgid ""
 "stick, are known as 'Ruffians'.  With enough experience they can learn to "
 "swing a bigger club or throw things, but not both."
 msgstr ""
+"Nogle mænd uden specielle evner kan ikke eller vil ikke leve et ærligt liv. "
+"Dem som forsøger at skabe et levebrød ved at genere andre kendes som "
+"banditter eller bøller. Med erfaring kan de lære at bruge større kølle eller "
+"kaste med objekter, men ikke begge dele."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:36
 msgid "club"
@@ -422,7 +525,7 @@ msgstr "kølle"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:4
 msgid "Thug"
-msgstr ""
+msgstr "Bølle"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:19
 msgid ""
@@ -432,21 +535,28 @@ msgid ""
 "sustenance. Regardless of their background, they all share the practice of "
 "beating their victims with large clubs."
 msgstr ""
+"Bøller har en bred baggrund; mens nogle er født ind i uvæsenet, er mange "
+"tidligere soldater som ikke blev fundet egnet til hæren eller bønder smidt "
+"væk fra deres jord. De bliver hurtig bøller som en måde at overleve på. "
+"Uanset deres baggrund, har de alle praksisen med at banke deres ofre med "
+"store køller."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:4
 msgid "Trapper"
-msgstr ""
+msgstr "Pelsjæger"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:19
 msgid ""
 "Trappers usually work supplying food for bandits and outlaws. Their hunting "
 "experience makes them most valuable at night and in forests and swamps."
 msgstr ""
+"Pelsjægere arbejder normalt med madforsyning for banditter og fredløse. "
+"Deres jagtevner er særdeles velegnede i kamp og gør dem også meget "
+"kompetente om natten, i skove og i sumpe."
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:4
-#, fuzzy
 msgid "Naga Fighter"
-msgstr "Soldat"
+msgstr "Nagakæmper"
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:21
 msgid ""
@@ -456,16 +566,19 @@ msgid ""
 "breathe water leaves them in trepidation of the abyss. They are small, and "
 "somewhat frail in form, but often much more nimble than their opponents."
 msgstr ""
+"Den maritime naga er en af de få racer som har en godt fungerende mobilitet "
+"i vand, hvilket har givet dem en hel verden hvor landfolkene ikke har "
+"adgang. De er dog stadig ikke ægte vandskabninger og deres manglende evne "
+"til at ånde i vand gør, at de er afgrænset fra dybderne. De er små og noget "
+"skrøbelige i form men ofte mere behændige end deres modstandere."
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:71
-#, fuzzy
 msgid "Nagini Fighter"
-msgstr "Soldat"
+msgstr "Naginikæmper"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:4
-#, fuzzy
 msgid "Orcish Leader"
-msgstr "Orkshaman"
+msgstr "Orkleder"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:21
 msgid ""
@@ -477,10 +590,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Orkledere er stammeledere. De tager de vigtige beslutninger og anfører deres "
+"folk i kamp. De bærer en bue af nødvendighed, men har langt bedre evner med "
+"deres sværd; alt i alt er de magtfulde kæmpere. Deres naturlige "
+"lederskabsevner gør dem meget værdsat i kamp, specielt blandt goblinerne.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:4
 msgid "Orcish Ruler"
-msgstr ""
+msgstr "Orkregent"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:20
 msgid ""
@@ -492,11 +611,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Enhver ork som kan holde en stor stamme fra intern skænderier og slåskampe "
+"er normalt specielt intelligent og lederegnet, og er uundgåelig også "
+"særdeles stærk. De er dygtige med både sværd og bue, men deres virkelige "
+"talent ligger i den sjældne evne til at kunne give ordre til andre orker "
+"under slaget, ordre som følges ikke af frygt, men af loyalitet.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:4
-#, fuzzy
 msgid "Orcish Sovereign"
-msgstr "Orkshaman"
+msgstr "Orkmonark"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:21
 msgid ""
@@ -508,11 +633,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Fra tid til anden, fremkommer en ork som har en naturlig karisma og "
+"lederevner over sine artsfæller. Hvis denne også er stærk og udspekuleret, "
+"ender de med at anføre en stor gruppe af krigere, og de vil også uundgåeligt "
+"påføre en stor mængde problemer for alle civiliserede racer i verden. Den "
+"sikreste måde at slippe af med en sådan trussel er at dræbe ondet ved roden "
+"og dermed fjerne denne unikke ork som holder det hele sammen.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:4
-#, fuzzy
 msgid "Troll Whelp"
-msgstr "Troldeshaman"
+msgstr "Troldehvalp"
 
 #: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:21
 msgid ""
@@ -524,11 +656,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"At beskrive en trold som en hvalp er noget af en modsætning, da en sådan "
+"allerede er større end en fuldvoksen mand. De er kluntede og kan ikke gå "
+"ordentlig endnu, i steden for kravler de på alle fire, men enhver ulempe "
+"dette giver dem opvejes af deres råstyrke.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:5
-#, fuzzy
 msgid "Dark Adept"
-msgstr "Sortelver"
+msgstr "Sortmagiekspert"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:24
 msgid ""
@@ -545,16 +682,25 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"For at tiltrække udøvere må gevinsten ved den sorte magi være stor da enhver "
+"som fanges i at udøve den i den civiliserede verden står over for en "
+"dødsdom. Og stadig er der dem som forsøger sig indenfor denne magiske "
+"retning, for gevinsten er ikke mindre end udødelighed. Gemt væk i hemmelige "
+"selskaber, eller igennem magiske ordener i underverden drives disse "
+"fanatikere ofte til grænse for deres formåen.\n"
+"\n"
+"Under disse forhold er deres eneste våben den iver de har lagt i deres søgen "
+"efter viden om sort magi.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:172
-#, fuzzy
 msgid "female^Dark Adept"
-msgstr "Troldkvinde"
+msgstr "Sortmagiekspert"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:4
-#, fuzzy
 msgid "Dark Sorcerer"
-msgstr "Troldmand"
+msgstr "Mørk troldmand"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:21
 msgid ""
@@ -570,10 +716,27 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Frygten fra sort magi kommer primært fra hvor lidt der vides om den af "
+"offentligheden. Mørke troldmænd er begyndt at afsløre hemmelighederne om liv "
+"og død, og dermed mestre i at påføre smerte og lidelse. Dette arbejde giver "
+"det første indblik i forbindelsen mellem sjæl og antimaterie, og de første "
+"succesfulde eksperimenter i at manipulere denne forbindelse. Det frygtelige "
+"ukendte som lurer efter døden har vist sin første sprække af lys og vil til "
+"sidst blive forstået.\n"
+"\n"
+"Selv om der fortsat er begrænsninger i deres egne evner til at forhindre "
+"deres egen udødelighed har det en umiddelbart og ubehagelig følgevirkning. "
+"Det liv som de kan indgive i dødt materiale kan skabe tjenere for dem, "
+"tjenere som vil arbejde, men også dræbe, og aldrig sige deres herre imod. "
+"Disse tjenere har en loyalitet som enhver tyran kun kan drømme om, og "
+"fremstillingen af disse tjenere er derfor fristende for alle med den mindste "
+"efterstræben efter magt.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:4
 msgid "Lich"
-msgstr ""
+msgstr "Lich"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:21
 msgid ""
@@ -589,10 +752,21 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"En lich er en fysisk skal af den mørke magis mål: Missionen for at opnå "
+"udødelighed. Selv om der skal ydes store ofre i gendannelsen som lich så "
+"snydes døden, hvilket i den grad gør lichen til en terrorfremkaldende "
+"skabning. Det er sindet som bevares og sjælen som følger efter, mens kroppen "
+"svinder bort.\n"
+"\n"
+"Det er ikke kendt, måske med undtagelse af den inderste cirkel omkring "
+"åndemaneri, om livet er forlænget evigt eller bare forlænges. Men bare at "
+"overveje en sådan ting viser omfanget af, hvad de har opnået.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Chocobone"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:20
 msgid ""
@@ -600,10 +774,15 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Ridende på de strudselignende store fugle som tidligere blev brugt af en "
+"forsvundet civilisation som heste, kan skeletchocobonerne bevæge sig "
+"hurtigere end de fleste kavalerienheder.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era_xtra_1.2/units/standard/Wose.cfg:4
 msgid "Wose"
-msgstr ""
+msgstr "Træsjæl"
 
 #: Extended_Era_xtra_1.2/units/standard/Wose.cfg:22
 msgid ""
@@ -620,9 +799,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-
-#~ msgid "attack only"
-#~ msgstr "kun angreb"
+"Sjældent set, selv af elver, er træsjælene en skabning der ikke vides meget "
+"om. Elverne er kilden til de fleste oplysninger. De ved, at disse skabninger "
+"ikke nedstammer fra træer, selvom de ligner dem i form, og de ved, at en "
+"træsjæl er mere i familie med feerne end selv elverne; dog på en anden måde. "
+"Deres rolle i verden er ukendt. De fleste har den indlysende opfattelse, at "
+"de er beskyttere af den naturlige verden.\n"
+"\n"
+"Træsjæle er i den grad pacifister, men har stor styrke. De bevæger sig ikke "
+"hurtigt rundt og er heller ikke velegnede til dette formål.\n"
+".\n"
+"Specielle bemærkninger:"
 
 #~ msgid ""
 #~ "Attack only:\n"
@@ -703,230 +890,6 @@ msgstr ""
 
 #~ msgid "Undead"
 #~ msgstr "Udød"
-
-#~ msgid ""
-#~ "Abalam,Abbadon,Abigor,Adramalech,Agaliarept,Agares,Aim,Akvan,Aldebaran,"
-#~ "Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
-#~ "Andromalius,Antares,Apep,Araqiel,Arioch,Armaros,Asael,Asag,Asb'el,"
-#~ "Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,"
-#~ "Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,"
-#~ "Behemoth,Beleth,Belial,Beliel,Belphegore,Belzebuth,Beowulf,Berith,Beur,"
-#~ "Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Camal,Carniveau,Cerberus,Chamos,"
-#~ "Chazaqiel,Corson,Daalberith,Dagon,Daniel,Dantalion,Decarabia,Demogorgon,"
-#~ "Dumah,Eligos,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,"
-#~ "Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Gusion,Haagenti,"
-#~ "Humbaba,Iblis,Ipos,Jutas,Juvart,Kabhanda,Karo,Kasadya,Kasdaye,Kimaris,"
-#~ "Kobal,Kokabiel,Legion,Lempo,Leonard,Leraje,Lix Tetrax,Lucifer,Lucifuge "
-#~ "Rofocale,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,Melchom,"
-#~ "Mephisto,Mephistopholes,Mesphito,Merihim,Moloch,Morax,Mulciber,Murmur,"
-#~ "Naberius,Nebiros,Neqa'el,Nergal,Nisroch,Oeillet,Olivier,Orcus,Orias,"
-#~ "Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
-#~ "Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Pyhton,Rahab,"
-#~ "Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,Ronwe,"
-#~ "Rosier,Sabnock,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,Satanachia,"
-#~ "Satariel,Seir,Shaitan,Shamsiel,Shax,Shezmu,Sidragasum,Sitri,Sonnillon,"
-#~ "Soufflet,Stolas,Surgat,Tabaet,Tamiel,Tannin,Teeraal,Temeluchus,Thammuz,"
-#~ "Turiel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xaphan,"
-#~ "Yeqon,Yeter'el,Yomiel,Zagan,Zaqiel,Zepar"
-#~ msgstr ""
-#~ "Abalam,Abbadon,Abigor,Adramalech,Agaliarept,Agares,Aim,Akvan,Aldebaran,"
-#~ "Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
-#~ "Andromalius,Antares,Apep,Araqiel,Arioch,Armaros,Asael,Asag,Asb'el,"
-#~ "Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,"
-#~ "Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,"
-#~ "Behemoth,Beleth,Belial,Beliel,Belphegore,Belzebuth,Beowulf,Berith,Beur,"
-#~ "Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Camal,Carniveau,Cerberus,Chamos,"
-#~ "Chazaqiel,Corson,Daalberith,Dagon,Daniel,Dantalion,Decarabia,Demogorgon,"
-#~ "Dumah,Eligos,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,"
-#~ "Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Gusion,Haagenti,"
-#~ "Humbaba,Iblis,Ipos,Jutas,Juvart,Kabhanda,Karo,Kasadya,Kasdaye,Kimaris,"
-#~ "Kobal,Kokabiel,Legion,Lempo,Leonard,Leraje,Lix Tetrax,Lucifer,Lucifuge "
-#~ "Rofocale,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,Melchom,"
-#~ "Mephisto,Mephistopholes,Mesphito,Merihim,Moloch,Morax,Mulciber,Murmur,"
-#~ "Naberius,Nebiros,Neqa'el,Nergal,Nisroch,Oeillet,Olivier,Orcus,Orias,"
-#~ "Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
-#~ "Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Pyhton,Rahab,"
-#~ "Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,Ronwe,"
-#~ "Rosier,Sabnock,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,Satanachia,"
-#~ "Satariel,Seir,Shaitan,Shamsiel,Shax,Shezmu,Sidragasum,Sitri,Sonnillon,"
-#~ "Soufflet,Stolas,Surgat,Tabaet,Tamiel,Tannin,Teeraal,Temeluchus,Thammuz,"
-#~ "Turiel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xaphan,"
-#~ "Yeqon,Yeter'el,Yomiel,Zagan,Zaqiel,Zepar"
-
-#~ msgid ""
-#~ "Agiel,Agrat-bat-mahlaht,Ammit,Amy,Arkel,Ashtaroth,Astarte,Astoreth,"
-#~ "Barbelo,Bruja,Delepitore,Eisheth Zenunil,Empusa,Euryale,Gordh,Gremory,"
-#~ "Gresil,Hecate,Kindite,Lamashtu,Lamia,Leviathan,Lilim,Lilin,Lilith,Lilitu,"
-#~ "Mara,Medusa,Melchiresa,Melusine,Naamah,Neuralger,Onoskelis,Prosperpine,"
-#~ "Rangda,Rusalka,Satana,Sheol,Selene,Sonnielion,Stheno,Sycorax,Taweret,"
-#~ "Tzitzimime,Unsere,Uzza,Verrier,Vepar"
-#~ msgstr ""
-#~ "Agiel,Agrat-bat-mahlaht,Ammit,Amy,Arkel,Ashtaroth,Astarte,Astoreth,"
-#~ "Barbelo,Bruja,Delepitore,Eisheth Zenunil,Empusa,Euryale,Gordh,Gremory,"
-#~ "Gresil,Hecate,Kindite,Lamashtu,Lamia,Leviathan,Lilim,Lilin,Lilith,Lilitu,"
-#~ "Mara,Medusa,Melchiresa,Melusine,Naamah,Neuralger,Onoskelis,Prosperpine,"
-#~ "Rangda,Rusalka,Satana,Sheol,Selene,Sonnielion,Stheno,Sycorax,Taweret,"
-#~ "Tzitzimime,Unsere,Uzza,Verrier,Vepar"
-
-#~ msgid "(+15% to all resistances, -1 movement)"
-#~ msgstr "(+15 % til alle modstandskrafte, -1 bevægelse)"
-
-#~ msgid ""
-#~ "Aban,Abbas,Abbud,Abdul-'Adl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
-#~ "Abdul-Aziz,Abdul-Badi,Abdul-Ba'ith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
-#~ "Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,"
-#~ "Abdul-Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,"
-#~ "Abdul-Haqq,Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,"
-#~ "Abdul-Khabir,Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,"
-#~ "Abdul-Mubdi',Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-"
-#~ "Mu'id,Abdul-Mu'izz,Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,"
-#~ "Abdul-Musawwir,Abdul-Muta'al,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-"
-#~ "Nur,Abdul-Qadir,Abdul-Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-"
-#~ "Rafi,Abdul-Rahim,Abdul-Rahman,Abdul-Rashid,Abdul-Ra'uf,Abdul-Razzaq,Abdul-"
-#~ "Shakur,Abdul-Tawwab,Abdul-Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,"
-#~ "Abdul-Wakil,Abdul-Wali,Abdul-Waliy,Abdul-Warith,Abdul-Zahir,"
-#~ "Abdullah,'Abid,'Abidin,Abu Bakr,Aby al-Khayr,Adil,Adham,"
-#~ "Adib,'Adli,'Adnan,'Afif,Ahmad,'Ajib,'Akif,Akil,Akram,Ala',Ala' al-Din,Al' "
-#~ "Abbas,Aladdin,Al-Bara,Al-Hakam,Al-Harith,Alhasan,Alhusain,Ali,Alim,"
-#~ "Almahdi,Al-Safi,Altaf,Altair,Al-Tayyib,Al-Tijani,Al-Tufail,Amid,'Amid,"
-#~ "Amin,Amir,'Amir,Amjad,'Ammar,'Amro,Anas,Anis,'Antarah,Anwar,'Aqil,Arfan,"
-#~ "Arif,'Arif,Asad,As'ad,Asadel,Ashraf,Asif,'Asim,Aswad,Ata',Ata' Allah,Ata' "
-#~ "al-Rahman,Athil,Athir,'Atif,'Awad,'Awf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,"
-#~ "Aza,'Azab,Azhar,Azim,'Aziz,'Azzam,Badi,Badi al-Zaman,Badr,Badr al-Din,"
-#~ "Badri,Baha',Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,"
-#~ "Barir,Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,"
-#~ "Budail,Burhan,Bushr,Butrus,Dabir,Dani,Darwish,Da'ud,Dhakir,Dhakiy,Dhakwan,"
-#~ "Dhul Fiqar,Dirar,Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,"
-#~ "Fahad,Fahmi,Faisal,Fa'iz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,"
-#~ "Faraj,Farhan,Farid,Fariq,Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,"
-#~ "Fawzan,Fawzi,Fayyad,Ferran,Fida,Fikri,Firas,Fu'ad,Fudail,Gamal,Ghayth,"
-#~ "Ghali,Ghalib,Ghanim,Ghassan,Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,"
-#~ "Hadi,Hafiz,Hakem,Hakim,Halim,Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,"
-#~ "Hana,Hana'i,Hanbal,Hani,Hanif,Hannad,Haris,Harith,Harun,Hashim,Hassan,"
-#~ "Hatim,Haydar,Haytham,Hayyan,Hazim,Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,"
-#~ "Hudhayfah,Humam,Hussein,Husam,Husam al-Din,Ibrahim,'Id,Idris,Ihsan,"
-#~ "Ihtisham,'Ikrimah,Ilias,'Imad,Imad al-Din,Imran,Imtiyaz,In'am,"
-#~ "Iqbal,'Irfan,'Isa,'Isam,Ishaq,Isma'il,Iyad,Iyas,Izz al-Din,Jabbar,Jabr,"
-#~ "Jabir,Jad Allah,Ja'far,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal al-Din,"
-#~ "Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,Jul,"
-#~ "Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
-#~ "Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
-#~ "Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
-#~ "Kutaiba,Labib,Lablab,Latif,Layth,Lu'ayLubayd,Luqman,Lut,Lutfi,Ma'd,Madani,"
-#~ "Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-"
-#~ "Din,Majid,Makin,Malik,Mamduh,Ma'mun,Ma'in,Mandhur,Mansur,Marghub,Marid,"
-#~ "Ma'ruf,Marwan,Marzuq,Mash'al,Mashhur,Masrur,Mas'ud,Masun,Maysarah,Mazhar,"
-#~ "Mazin,Mehmed,Mihran,Mihyar,Mika'il,Miqdad,Misbah,Mish'al,Miyaz,Mu'adh,"
-#~ "Mu'awiyah,Mu'ayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,"
-#~ "Muhayr,Muhammad,Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,"
-#~ "Mu'in,Mu'izz,Mujab,Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Mu'mmar,"
-#~ "Mu'min,Mumtaz,Munahid,Mundhir,Munib,Munif,Munir,Mu'nis,Munjid,Munsif,"
-#~ "Muntasir,Murad,Murid,Murshid,Murtada,Musa,Mus'ab,Musa'id,Mushtaq,Muslih,"
-#~ "Muslim,Mutafa,Muta',Mu'tasim,Mutawalli,Mu'tazz,Muthanna,Muti,Muwaffaq,"
-#~ "Muyassar,Muzaffar,Mussammil,Nabhan,Nabighah,Nabih,Nabil,Nadhir,Nadim,"
-#~ "Nadir,Nafi',Nahid,Na'il,Na'im,Naji,Najib,Najid,Najjar,Najm al-Din,Na'aman,"
-#~ "Namir,Nash'ah,Nash'at,Nashwan,Nasib,Nasih,Nasim,Nasir,Nasir al-Din,Nasr,"
-#~ "Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,Nazmi,Nibras,Nidal,Nijad,Nimr,"
-#~ "Nizar,Nu'aym,Nuh,Nuhayd,Numair,Nu'man,Nur al-Din,Nuri,Nusrah,Nusrat,Omar,"
-#~ "Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,Qutaybah,Qutb,Qutuz,Rabah,"
-#~ "Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Ra'id,Ra'if,Rais,Rajaa,Rajab,"
-#~ "Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,Rashid,Rasil,Rasin,"
-#~ "Rasmi,Rasul,Ratib,Ra'uf,Rayhan,Rayyan,Razin,Ridha,Ridwan,Rihab,Riyad,Rizq,"
-#~ "Ruhi,Rushd,Rushdi,Ruwayd,Saad,Sa'adah,Sab,Sabih,Sabir,Sabri,Sa'd,Sa'd al-"
-#~ "Din,Sadad,Sadid,Sadiq,Sa'dun,Sa'id,Safi,Safiy,Safiy al-Din,Safuh,Safwah,"
-#~ "Safwat,Safwan,Sahib,Sahir,Sahl,Sa'ib,Saif,Saif al-Din,Sajid,Sajjad,Sakhr,"
-#~ "Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,Samman,"
-#~ "Saqr,Sariyah,Sati,Saud,Sayyid,Sha'ban,Shadi,Shadin,Shafi,Shafiq,Shahid,"
-#~ "Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
-#~ "Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shu'ayb,Shukri,Shumayl,Siddiq,"
-#~ "Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,"
-#~ "Sulaiman,Sumrah,Suraqah,Su'ud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,"
-#~ "Talal,Talib,Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,"
-#~ "Tawhid,Taymullah,Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,"
-#~ "Thawban,'Ubaidah,Ubaid,Ubayy,'Udayl,'Uday,'Umar,Umarah,Umair,'Urwah,Usaym,"
-#~ "Usama,'Utbah,Uthal,Uthman,Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,"
-#~ "Wa'il,Wajdi,Wajid,Wajih,Wakil,Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,"
-#~ "Waqqas,Ward,Wasif,Wasil,Wasim,Wazir,Yahya,Yaman,Ya'qub,Yasar,Yasin,Yasir,"
-#~ "Yazan,Yazid,Yunus,Yushua,Yusri,Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,"
-#~ "Zayn,Zarif,Zakarriya,Zaki,Zakwan,Ziyad,Zubayr,Zuhayr"
-#~ msgstr ""
-#~ "Aban,Abbas,Abbud,Abdul-'Adl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
-#~ "Abdul-Aziz,Abdul-Badi,Abdul-Ba'ith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
-#~ "Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,"
-#~ "Abdul-Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,"
-#~ "Abdul-Haqq,Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,"
-#~ "Abdul-Khabir,Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,"
-#~ "Abdul-Mubdi',Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-"
-#~ "Mu'id,Abdul-Mu'izz,Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,"
-#~ "Abdul-Musawwir,Abdul-Muta'al,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-"
-#~ "Nur,Abdul-Qadir,Abdul-Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-"
-#~ "Rafi,Abdul-Rahim,Abdul-Rahman,Abdul-Rashid,Abdul-Ra'uf,Abdul-Razzaq,Abdul-"
-#~ "Shakur,Abdul-Tawwab,Abdul-Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,"
-#~ "Abdul-Wakil,Abdul-Wali,Abdul-Waliy,Abdul-Warith,Abdul-Zahir,"
-#~ "Abdullah,'Abid,'Abidin,Abu Bakr,Aby al-Khayr,Adil,Adham,"
-#~ "Adib,'Adli,'Adnan,'Afif,Ahmad,'Ajib,'Akif,Akil,Akram,Ala',Ala' al-Din,Al' "
-#~ "Abbas,Aladdin,Al-Bara,Al-Hakam,Al-Harith,Alhasan,Alhusain,Ali,Alim,"
-#~ "Almahdi,Al-Safi,Altaf,Altair,Al-Tayyib,Al-Tijani,Al-Tufail,Amid,'Amid,"
-#~ "Amin,Amir,'Amir,Amjad,'Ammar,'Amro,Anas,Anis,'Antarah,Anwar,'Aqil,Arfan,"
-#~ "Arif,'Arif,Asad,As'ad,Asadel,Ashraf,Asif,'Asim,Aswad,Ata',Ata' Allah,Ata' "
-#~ "al-Rahman,Athil,Athir,'Atif,'Awad,'Awf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,"
-#~ "Aza,'Azab,Azhar,Azim,'Aziz,'Azzam,Badi,Badi al-Zaman,Badr,Badr al-Din,"
-#~ "Badri,Baha',Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,"
-#~ "Barir,Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,"
-#~ "Budail,Burhan,Bushr,Butrus,Dabir,Dani,Darwish,Da'ud,Dhakir,Dhakiy,Dhakwan,"
-#~ "Dhul Fiqar,Dirar,Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,"
-#~ "Fahad,Fahmi,Faisal,Fa'iz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,"
-#~ "Faraj,Farhan,Farid,Fariq,Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,"
-#~ "Fawzan,Fawzi,Fayyad,Ferran,Fida,Fikri,Firas,Fu'ad,Fudail,Gamal,Ghayth,"
-#~ "Ghali,Ghalib,Ghanim,Ghassan,Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,"
-#~ "Hadi,Hafiz,Hakem,Hakim,Halim,Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,"
-#~ "Hana,Hana'i,Hanbal,Hani,Hanif,Hannad,Haris,Harith,Harun,Hashim,Hassan,"
-#~ "Hatim,Haydar,Haytham,Hayyan,Hazim,Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,"
-#~ "Hudhayfah,Humam,Hussein,Husam,Husam al-Din,Ibrahim,'Id,Idris,Ihsan,"
-#~ "Ihtisham,'Ikrimah,Ilias,'Imad,Imad al-Din,Imran,Imtiyaz,In'am,"
-#~ "Iqbal,'Irfan,'Isa,'Isam,Ishaq,Isma'il,Iyad,Iyas,Izz al-Din,Jabbar,Jabr,"
-#~ "Jabir,Jad Allah,Ja'far,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal al-Din,"
-#~ "Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,Jul,"
-#~ "Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
-#~ "Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
-#~ "Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
-#~ "Kutaiba,Labib,Lablab,Latif,Layth,Lu'ayLubayd,Luqman,Lut,Lutfi,Ma'd,Madani,"
-#~ "Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-"
-#~ "Din,Majid,Makin,Malik,Mamduh,Ma'mun,Ma'in,Mandhur,Mansur,Marghub,Marid,"
-#~ "Ma'ruf,Marwan,Marzuq,Mash'al,Mashhur,Masrur,Mas'ud,Masun,Maysarah,Mazhar,"
-#~ "Mazin,Mehmed,Mihran,Mihyar,Mika'il,Miqdad,Misbah,Mish'al,Miyaz,Mu'adh,"
-#~ "Mu'awiyah,Mu'ayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,"
-#~ "Muhayr,Muhammad,Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,"
-#~ "Mu'in,Mu'izz,Mujab,Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Mu'mmar,"
-#~ "Mu'min,Mumtaz,Munahid,Mundhir,Munib,Munif,Munir,Mu'nis,Munjid,Munsif,"
-#~ "Muntasir,Murad,Murid,Murshid,Murtada,Musa,Mus'ab,Musa'id,Mushtaq,Muslih,"
-#~ "Muslim,Mutafa,Muta',Mu'tasim,Mutawalli,Mu'tazz,Muthanna,Muti,Muwaffaq,"
-#~ "Muyassar,Muzaffar,Mussammil,Nabhan,Nabighah,Nabih,Nabil,Nadhir,Nadim,"
-#~ "Nadir,Nafi',Nahid,Na'il,Na'im,Naji,Najib,Najid,Najjar,Najm al-Din,Na'aman,"
-#~ "Namir,Nash'ah,Nash'at,Nashwan,Nasib,Nasih,Nasim,Nasir,Nasir al-Din,Nasr,"
-#~ "Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,Nazmi,Nibras,Nidal,Nijad,Nimr,"
-#~ "Nizar,Nu'aym,Nuh,Nuhayd,Numair,Nu'man,Nur al-Din,Nuri,Nusrah,Nusrat,Omar,"
-#~ "Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,Qutaybah,Qutb,Qutuz,Rabah,"
-#~ "Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Ra'id,Ra'if,Rais,Rajaa,Rajab,"
-#~ "Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,Rashid,Rasil,Rasin,"
-#~ "Rasmi,Rasul,Ratib,Ra'uf,Rayhan,Rayyan,Razin,Ridha,Ridwan,Rihab,Riyad,Rizq,"
-#~ "Ruhi,Rushd,Rushdi,Ruwayd,Saad,Sa'adah,Sab,Sabih,Sabir,Sabri,Sa'd,Sa'd al-"
-#~ "Din,Sadad,Sadid,Sadiq,Sa'dun,Sa'id,Safi,Safiy,Safiy al-Din,Safuh,Safwah,"
-#~ "Safwat,Safwan,Sahib,Sahir,Sahl,Sa'ib,Saif,Saif al-Din,Sajid,Sajjad,Sakhr,"
-#~ "Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,Samman,"
-#~ "Saqr,Sariyah,Sati,Saud,Sayyid,Sha'ban,Shadi,Shadin,Shafi,Shafiq,Shahid,"
-#~ "Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
-#~ "Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shu'ayb,Shukri,Shumayl,Siddiq,"
-#~ "Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,"
-#~ "Sulaiman,Sumrah,Suraqah,Su'ud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,"
-#~ "Talal,Talib,Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,"
-#~ "Tawhid,Taymullah,Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,"
-#~ "Thawban,'Ubaidah,Ubaid,Ubayy,'Udayl,'Uday,'Umar,Umarah,Umair,'Urwah,Usaym,"
-#~ "Usama,'Utbah,Uthal,Uthman,Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,"
-#~ "Wa'il,Wajdi,Wajid,Wajih,Wakil,Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,"
-#~ "Waqqas,Ward,Wasif,Wasil,Wasim,Wazir,Yahya,Yaman,Ya'qub,Yasar,Yasin,Yasir,"
-#~ "Yazan,Yazid,Yunus,Yushua,Yusri,Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,"
-#~ "Zayn,Zarif,Zakarriya,Zaki,Zakwan,Ziyad,Zubayr,Zuhayr"
 
 #~ msgid "spear"
 #~ msgstr "spyd"
