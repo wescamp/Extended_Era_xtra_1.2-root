@@ -1,24 +1,23 @@
-# translation of utbs-it.po to Italian
-# Luciano Montanaro <mikelima@cirulla.net>, 2005, 2006.
-# Silvia Montanaro, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: utbs-it\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-09-18 22:55+0200\n"
-"PO-Revision-Date: 2007-05-14 16:35+0100\n"
-"Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
-"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"PO-Revision-Date: 2007-12-06 20:48+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.1\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:4
 msgid "Drake Burner"
-msgstr ""
+msgstr "Drago inceneritore"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Burner.cfg:19
 #: Extended_Era_xtra_1.2/units/standard/Drake_Burner.cfg:19
@@ -28,10 +27,14 @@ msgid ""
 "This, coupled with their sheer size and clawed hands makes for a dangerous "
 "foe in combat."
 msgstr ""
+"I draghi inceneritori sono quei valorosi in cui il sangue e la forza dei "
+"loro remoti antenati è più pura dando loro la capacità di respirare il "
+"fuoco. Questo, accoppiato alla loro possente stazza e ai terribili artigli, "
+"li rende un nemico mortale in combattimento."
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:4
 msgid "Drake Flameheart"
-msgstr ""
+msgstr "Drago cuore di fiamma"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flameheart.cfg:28
 msgid ""
@@ -42,10 +45,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Si dice che le stirpi più antiche di draghi - i diretti discendenti dei "
+"dragoni - abbiano il fuoco che scorre nelle loro vene. Si dice che siano in "
+"grado di respirare fuoco e tutti ci credono, anche se nessuno, per chissà "
+"quale ragione, ha mai provato a squartarne uno per scoprire la verità.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:4
 msgid "Drake Flare"
-msgstr ""
+msgstr "Drago splendente"
 
 #: Extended_Era_xtra_1.2/units/rpg/Drake_Flare.cfg:27
 msgid ""
@@ -55,11 +64,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Quella dei draghi è una razza antica, saggia abbastanza da prestare la "
+"dovuta attenzione ai propri comandanti. Quelli che vengono chiamati "
+"«splendenti» dai loro nemici sono i draghi che aspirano a diventare capi, sia "
+"in guerra sia in pace.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:4
-#, fuzzy
 msgid "Elvish Captain"
-msgstr "Capitano"
+msgstr "Elfo capitano"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Captain.cfg:28
 msgid ""
@@ -72,11 +86,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli elfi, a differenza di molte altre razze, accettano e seguono "
+"immediatamente i loro pari che hanno esperienza di combattimento. In ciò "
+"sono molto diversi dagli uomini, per i quali il comando è spesso questione "
+"di coercizione e intimidazione. La combinazione della disponibilità ad "
+"accettare la saggezza dei capi e la tendenza a scegliere comandanti di "
+"merito è uno dei punti di forza nascosti degli elfi.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:4
-#, fuzzy
 msgid "Elvish Fighter"
-msgstr "Nano combattente"
+msgstr "Elfo guerriero"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Fighter.cfg:20
 msgid ""
@@ -85,11 +106,15 @@ msgid ""
 "can grasp the basics of swordsmanship and archery in an uncannily short "
 "time, and put them to effective use on the battlefield."
 msgstr ""
+"Gli elfi non sono inclini alla guerra per natura, ma quando i tempi lo "
+"richiedono, la loro naturale grazia e agilità sono risorse più che utili, "
+"così come la loro grande abilità nel produrre armi. Un elfo può imparare a "
+"maneggiare spada e l'arco in un tempo incredibilmente breve e impiegarli con "
+"efficacia sul campo di battaglia."
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:4
-#, fuzzy
 msgid "Elvish Marshal"
-msgstr "Colonnello"
+msgstr "Elfo colonnello"
 
 #: Extended_Era_xtra_1.2/units/rpg/Elvish_Marshal.cfg:29
 msgid ""
@@ -102,11 +127,19 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"La longevità e la naturale intelligenza degli elfi conferisce loro una "
+"inclinazione particolare per le questioni militari, sufficiente anche a "
+"contrastare la loro generale avversione per queste cose. Gli elfi ricordano "
+"le cose più chiaramente degli uomini e possono spesso intuire ciò che altri "
+"possono essere solo addestrati a fare. Certamente, in quelle rare occasioni "
+"in cui un elfo si concentra sulla guerra, la strategia che ne risulta è il "
+"lavoro di un maestro.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:4
-#, fuzzy
 msgid "Death Knight"
-msgstr "Cavaliere nero"
+msgstr "Cavaliere della morte"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Death_Knight.cfg:27
 msgid ""
@@ -117,11 +150,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Si narra di leggendari guerrieri e generali che, maledetti con odio e "
+"tradimento, tornarono in questo mondo come cavalieri della morte. Impugnando "
+"le stesse armi che utilizzarono in vita, essi ora comandano i non morti "
+"nella loro sete di vendetta.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:4
 msgid "Revenant"
-msgstr ""
+msgstr "Squartatore"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skele_Revenant.cfg:19
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Revenant.cfg:19
@@ -135,11 +174,19 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Fornite di una falsa vita per combattere nuovamente, le creature chiamate "
+"Squartatori erano chiaramente dei valorosi guerrieri un tempo, tuttavia la "
+"loro memoria è andata perduta. Anche gli stregoni che li riportano in vita "
+"possono solo speculare sul loro passato. Tralasciando queste domande, gli "
+"Squartatori sono potenti strumenti durante le battaglie: guerrieri senza "
+"paura che non sentono il dolore e che combatteranno sino alla fine.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:4
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:4
 msgid "Skeleton"
-msgstr ""
+msgstr "Scheletro"
 
 #: Extended_Era_xtra_1.2/units/rpg/Undead_Skeleton.cfg:20
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skeleton.cfg:20
@@ -151,6 +198,12 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli scheletri sono guerrieri massacrati in battaglia e riportati indietro da "
+"incantesimi oscuri. Sono quasi senza cervello, non sanno qual è lo scopo di "
+"ciò che fanno, non hanno paura e non sentono dolore e il loro aspetto spesso "
+"spaventa coloro che vogliono affrontare i loro padroni.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
@@ -168,19 +221,26 @@ msgid ""
 "against \n"
 "cold attacks than most other drakes."
 msgstr ""
+"I draghi dell'apocalisse sono veramente i più duri di tutti i draghi, sono "
+"così avvezzi a vivere vicino al fuoco che sono divenuti praticamente immuni "
+"alle armi basate sul fuoco al punto che un cuscino è un'arma più efficiente "
+"di una torcia contro di loro. La loro armatura, come quella dei loro cugini "
+"più deboli, i draghi infernali, è fatta di minerali refrattari e di rocce "
+"provenienti dal fondo dei fiumi di magma e conferisce loro una difesa contro "
+"gli attacchi freddi leggermente migliore dalla maggior parte degli altri "
+"draghi."
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:46
 msgid "claws"
-msgstr "chele"
+msgstr "artigli"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Armageddon.cfg:103
 msgid "fire breath"
 msgstr "alito di fuoco"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:4
-#, fuzzy
 msgid "Fire Drake"
-msgstr "Draghi"
+msgstr "Drago di fuoco"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Fire.cfg:18
 msgid ""
@@ -188,10 +248,13 @@ msgid ""
 "armor, they belch columns of flame at any who oppose them, a testament to "
 "the strength and majesty of their kind."
 msgstr ""
+"I grandi draghi di fuoco sono maestri del loro fuoco interiore. Coperti da "
+"scintillanti armature, sputano colonne di fuoco a chiunque gli si opponga, "
+"testimonianza della forza e maestosità della loro razza."
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:4
 msgid "Inferno Drake"
-msgstr ""
+msgstr "Drago infernale"
 
 #: Extended_Era_xtra_1.2/units/standard/Drake_Inferno.cfg:18
 msgid ""
@@ -201,11 +264,15 @@ msgid ""
 "shining, flame-colored armor is a mark of their proud and powerful caste, "
 "the ideal to which their brethren aspire."
 msgstr ""
+"Le conflaragazioni volanti note come draghi infernali sono maestri del fuoco "
+"che respirano, ed eguagliano i loro predecessori, i dragoni, nella loro "
+"abilità di usarlo. Questa abilità naturale li rende praticamente immuni al "
+"fuoco. La loro scintillante armatura color fuoco è un marchio della loro "
+"potente e orgogliosa casta, l'ideale cui la loro fratellanza aspira."
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:4
-#, fuzzy
 msgid "Dwarvish Fighter"
-msgstr "Nano fabbro esoterico"
+msgstr "Nano guerriero"
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Fighter.cfg:22
 msgid ""
@@ -214,11 +281,14 @@ msgid ""
 "terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
+"I nani combattenti maneggiano abilmente le asce da battaglia ed i martelli e "
+"questo li rende degli avversari temibili nel combattimento ravvicinato. Sono "
+"eccellenti nei sotterranei e su terreni montagnosi. Il loro potere e la loro "
+"resistenza compensano pienamente la loro velocità ridotta."
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:4
-#, fuzzy
 msgid "Dwarvish Thunderer"
-msgstr "Nano corridore"
+msgstr "Nano tuonante"
 
 #: Extended_Era_xtra_1.2/units/standard/Dwarvish_Thunderer.cfg:18
 msgid ""
@@ -230,10 +300,17 @@ msgid ""
 "make any of their own, realized they were lucky to no longer be fighting the "
 "dwarves, and vowed never to do so again."
 msgstr ""
+"Quando gli uomini di Wesnoth incontrarono per la prima volta i nani, furono "
+"frastornati dalla potenza dei nani tuonanti, che erano in grado di lanciare "
+"morte da lontano attraverso l'apparato di questi strani... “bastoni” che "
+"portavano in battaglia. Una volta che la pace istituita dal Ka'lian ebbe "
+"effetto, la gente di Haldric, non comprendendo queste armi e sicuramente "
+"incapaci di crearne di proprie, si rese conto della fortuna di non dover più "
+"combattere i nani e dichiararono solennemente di non farlo mai più."
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:4
 msgid "Goblin Rouser"
-msgstr ""
+msgstr "Goblin incitatore"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Rouser.cfg:28
 msgid ""
@@ -245,11 +322,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli alfieri sono considerati una stranezza tra i goblin. Un goblin che abbia "
+"sopravvissuto abbastanza battaglie per essere considerato un veterano è "
+"abbastanza raro, ed è ancora più raro che altri goblin lo riconoscano e lo "
+"rispettino. Nondimeno, i frenetici incitamenti di uno di questi goblin "
+"riescono effettivamente a far combattere più a lungo e con più fervore i "
+"giovani goblin.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:4
-#, fuzzy
 msgid "Goblin Spearman"
-msgstr "Fante"
+msgstr "Fante goblin"
 
 #: Extended_Era_xtra_1.2/units/standard/Goblin_Spearman.cfg:20
 msgid ""
@@ -262,9 +346,17 @@ msgid ""
 "failure of the orcish bloodline, though no one knows enough of their history "
 "to state anything conclusive."
 msgstr ""
+"In ogni figliata di orchi, molti nascono molto più piccoli e deboli rispetto "
+"agli altri. Questi cucciolotti vengono chiamati “goblin” e sono disprezzati "
+"dalla loro razza. In battaglia, viene loro concesso il più misero degli "
+"equipaggiamenti, e vengono impiegati come scudo per permettere ai signori "
+"della guerra di preparare il vero attacco.\n"
+"\n"
+"Alcuni ipotizzano che l'esistenza di queste creature sia l'inizio della "
+"decadenza della stirpe degli orchi, ma nessuno ne sa abbastanza per poter "
+"affermare qualcosa di conclusivo."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:4
-#, fuzzy
 msgid "Outlaw"
 msgstr "Fuorilegge"
 
@@ -278,16 +370,23 @@ msgid ""
 "are somewhat ill at ease fighting during the day, preferring the cover of "
 "nightfall."
 msgstr ""
+"Dopo alcuni anni di servizio, i “briganti” aumentano il loro rango tra i "
+"loro compagni fuorilegge. Avendo dato prova del loro valore nel "
+"combattimento, vengono loro assegnati obiettivi più difficili e una maggiore "
+"condivisione dei beni rubati. Anche se molti avversari potrebbero ridere "
+"delle armi che utilizzano i fuorilegge, essi le rendono pericolose grazie "
+"alla loro capacità di usarli e grazie alla grande disponibilità di "
+"munizioni. I Fuorilegge in qualche modo sono infastiditi dai combattimenti "
+"che si svolgono durante il giorno e preferiscono combattere dopo il calare "
+"del sole."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw.cfg:114
-#, fuzzy
 msgid "female^Outlaw"
-msgstr "Fuggiasca"
+msgstr "Fuorilegge"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:4
-#, fuzzy
 msgid "Bandit"
-msgstr "Brigante"
+msgstr "Bandito"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Bandit.cfg:18
 msgid ""
@@ -297,10 +396,16 @@ msgid ""
 "victims into submission. Like any sort of outlaw, they're not comfortable "
 "fighting in broad daylight, being used to working at night."
 msgstr ""
+"I banditi sono una categoria di uomini molto varia, dei quali non si conosce "
+"bene le origini. Sono il nocciolo duro di qualunque banda di criminali "
+"organizzata e, nonostante manchino di finezza e di intelligenza, eccellono "
+"nel loro compito principale di prendere a pugni le loro vittime. Come gli "
+"altri fuorilegge, non si trovano a loro agio nel combattere di giorno e "
+"preferiscono lavorare di notte."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:4
 msgid "Footpad"
-msgstr ""
+msgstr "Briganti"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:19
 msgid ""
@@ -311,11 +416,17 @@ msgid ""
 "despite their pitiable weaponry, they are quite good at harrying their "
 "enemies, especially under cover of darkness."
 msgstr ""
+"Questi insignificanti criminali sono spesso chiamati ironicamente "
+"“grassatori” dai loro superiori, infatti ricevono ogni genere di incarico "
+"che richieda di girare molto, vengono impiegati come corrieri, o per "
+"ricognizioni. La resistenza e l'abilità sui loro piedi che ne deriva li "
+"aiuta molto in battaglia, e nonostante il loro pietoso armamento, sono "
+"abbastanza esperti nell'attaccare ripetutamente i loro nemici, specialmente "
+"con il favore delle tenebre."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Footpad.cfg:135
-#, fuzzy
 msgid "female^Footpad"
-msgstr "Maga"
+msgstr "Brigantessa"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
@@ -328,7 +439,7 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
-"I criminali incalliti diventano famosi alle autorità sia per le  loro "
+"I criminali incalliti diventano famosi alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Pericolosi "
 "e spietati, possono essere terribili nel loro ambiente ma non hanno scampo "
 "di fronte ai professionisti delle forze dell'ordine."
@@ -352,7 +463,7 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
-"Le criminali incallite diventano famose alle autorità sia per le  loro "
+"Le criminali incallite diventano famose alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Belle e "
 "pericolose, il loro fascino viene superato solo dalla loro pericolosità."
 
@@ -394,15 +505,16 @@ msgid "bow"
 msgstr "arco"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:4
-#, fuzzy
 msgid "Poacher"
-msgstr "Arciere"
+msgstr "Bracconiere"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Poacher.cfg:20
 msgid ""
 "Poachers rely on their hunting experience and are most valuable at night and "
 "in forests and swamps."
 msgstr ""
+"I bracconieri si affidano alla loro esperienza di caccia e sono molto "
+"preziosi nel muoversi di notte o nelle foreste e paludi."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ranger.cfg:5
 msgid "Ranger"
@@ -436,6 +548,11 @@ msgid ""
 "stick, are known as 'Ruffians'.  With enough experience they can learn to "
 "swing a bigger club or throw things, but not both."
 msgstr ""
+"Alcuni uomini senza particolari qualità non possono o non vogliono fare una "
+"vita onesta. Quelli che cercano di farsi strada nella vita usando il lato "
+"pesante di un bastone sono noti come “canaglie”. Con un po' di esperienza, "
+"potranno imparare a usare un bastone più grosso o a scagliare oggetti, ma "
+"non entrambe le cose."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Ruffian.cfg:36
 msgid "club"
@@ -443,7 +560,7 @@ msgstr "mazza"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:4
 msgid "Thug"
-msgstr ""
+msgstr "Scagnozzo"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Thug.cfg:19
 msgid ""
@@ -453,22 +570,28 @@ msgid ""
 "sustenance. Regardless of their background, they all share the practice of "
 "beating their victims with large clubs."
 msgstr ""
+"Gli scagnozzi hanno origini molto varie; alcuni sono nati nell'ambiente, "
+"altri sono soldati stanchi di servire l'esercito, altri ancora sono "
+"contadini che hanno abbandonato le loro terre. Presto diventano scagnozzi "
+"per procurarsi cibo e vestiti. A prescindere dal loro passato, tutti "
+"utilizzano di preferenza grosse clave per colpire le loro vittime."
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:4
-#, fuzzy
 msgid "Trapper"
-msgstr "Tracciatore"
+msgstr "Cacciatore"
 
 #: Extended_Era_xtra_1.2/units/standard/Human_Outlaw_Trapper.cfg:19
 msgid ""
 "Trappers usually work supplying food for bandits and outlaws. Their hunting "
 "experience makes them most valuable at night and in forests and swamps."
 msgstr ""
+"I cacciatori di solito lavorano per rifornire di cibo banditi e fuorilegge. "
+"La loro esperienza di caccia li rende molto preziosi di notte o nelle "
+"foreste e paludi."
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:4
-#, fuzzy
 msgid "Naga Fighter"
-msgstr "Nano combattente"
+msgstr "Naga guerriera"
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:21
 msgid ""
@@ -478,16 +601,20 @@ msgid ""
 "breathe water leaves them in trepidation of the abyss. They are small, and "
 "somewhat frail in form, but often much more nimble than their opponents."
 msgstr ""
+"I serpentini naga sono una delle poche razze capaci di qualsiasi movimento "
+"nell'acqua, che gli permette di esplorare un immenso mondo proibito per i "
+"duellanti terrestri. Eppure, essi non sono vere creature d'acqua e la loro "
+"incapacità di respirare l'acqua le rende timorose degli abissi. Sono piccoli "
+"e in qualche modo delicati nella forma, ma spesso molto più agili dei loro "
+"avversari."
 
 #: Extended_Era_xtra_1.2/units/standard/Naga_Fighter.cfg:71
-#, fuzzy
 msgid "Nagini Fighter"
-msgstr "Nano combattente"
+msgstr "Naga guerriero"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:4
-#, fuzzy
 msgid "Orcish Leader"
-msgstr "Orco stregone"
+msgstr "Orco comandante"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Leader.cfg:21
 msgid ""
@@ -499,11 +626,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli orchi comandanti sono i capi delle loro tribù. Prendono le decisioni "
+"importanti e conducono la loro gente in battaglia. Sono equipaggiati con "
+"archi da utilizzare se necessario, ma sono nettamente più abili con la "
+"spada. Sono potenti combattenti. La loro capacità naturale di comando li "
+"rende preziosi in battaglia: se il comandante viene sconfitto la battaglia è "
+"persa.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:4
-#, fuzzy
 msgid "Orcish Ruler"
-msgstr "Nano corridore"
+msgstr "Orco dominatore"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Ruler.cfg:20
 msgid ""
@@ -515,11 +649,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli orchi dominatori sono i capi delle loro tribù. Prendono le decisioni "
+"importanti e conducono la loro gente in battaglia. Sono equipaggiati con "
+"archi da utilizzare se necessario, ma sono nettamente più abili con la "
+"spada. Sono potenti combattenti. La loro capacità naturale di comando li "
+"rende preziosi in battaglia: se il dominatore è sconfitto la battaglia è "
+"persa.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:4
-#, fuzzy
 msgid "Orcish Sovereign"
-msgstr "Orco sciamano"
+msgstr "Orco sovrano"
 
 #: Extended_Era_xtra_1.2/units/standard/Orcish_Sovereign.cfg:21
 msgid ""
@@ -531,11 +672,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli orchi sovrani sono i capi delle loro tribù. Sono coloro che prendono le "
+"decisioni più importanti e guidano i loro uomini in battaglia. Sono "
+"equipaggiati con archi che utilizzano in caso di necessità, ma sono "
+"decisamente più abili nel combattimento con la spada; sono potenti "
+"combattenti. La loro naturale capacità di condottieri li rende preziosi in "
+"battaglia: se il sovrano viene sconfitto la battaglia è persa.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:4
-#, fuzzy
 msgid "Troll Whelp"
-msgstr "Troll sciamano"
+msgstr "Cucciolo di troll"
 
 #: Extended_Era_xtra_1.2/units/standard/Troll_Whelp.cfg:21
 msgid ""
@@ -547,11 +695,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Descrivere un troll come un cucciolo è qualcosa che rasenta un ossimoro, "
+"considerando che i loro corpi sono molto più robusti di quelli di un uomo "
+"adulto. Sono goffi e non camminano ancora bene, e spesso si muovono a "
+"quattro zampe, ma le difficoltà che ciò comporta è controbilanciato dalla "
+"forza bruta della loro razza .\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:5
-#, fuzzy
 msgid "Dark Adept"
-msgstr "Elfi neri"
+msgstr "Adepto dell'oscurità"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:24
 msgid ""
@@ -568,16 +722,26 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Per attirare praticanti, la tentazione della magia nera deve essere di certo "
+"una grande ricompensa, in quanto chiunque venga sorpreso a praticare tale "
+"arte nel mondo civile è soggetto alla pena di morte. Tuttavia ci sono "
+"persone che inseguono tale arte, poiché il premio offerto è niente di meno "
+"che l'immortalità. Nascosti in sette segreti, o iniziati dagli oscuri ordini "
+"del mondo sotterraneo, l'addestramento a cui questi fanatici si sottopongono "
+"spesso li spinge a sfinimento e debilitazione.\n"
+"\n"
+"In tali condizioni, la loro unica arma è l'arte che si sono impegnati di "
+"imparare.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Adept.cfg:172
-#, fuzzy
 msgid "female^Dark Adept"
-msgstr "Maga"
+msgstr "Adepta dell'oscurità"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:4
-#, fuzzy
 msgid "Dark Sorcerer"
-msgstr "Incantatore"
+msgstr "Mago oscuro"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Dark_Sorcerer.cfg:21
 msgid ""
@@ -593,10 +757,23 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Il terrore ispirato dalla magia nera è dovuto principalmente all'ignoranza "
+"dell'uomo comune. I maghi oscuri hanno iniziato a svelare i segreti della "
+"vita e della morte, diventando rapidamente dei maestri nell'infliggere "
+"dolore e angosce.\n"
+"\n"
+"Il premio più ambito delle arti oscure è il controllo completo della morte e "
+"della vita. I maghi oscuri possono prima o poi imparare a manipolare la vita "
+"e la morte rianimando i cadaveri, gli scheletri e gli spiriti. I più "
+"corrotti e affamati di potere tentano di conquistare completamente la morte "
+"attraverso la trasformazione a Lich e il raggiungimento di una spaventosa "
+"immortalità.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:4
 msgid "Lich"
-msgstr ""
+msgstr "Lich"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Necro_Lich.cfg:21
 msgid ""
@@ -612,10 +789,20 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Un lich è l'incarnazione fisica dell'obiettivo primario della magia nera: "
+"l'immortalità. Per diventare Lich bisogna ingannare la morte. Solo la mente "
+"continua a vivere, e gli spiriti seguaci, ma il corpo viene distrutto.\n"
+"\n"
+"Nessuno sa, eccetto i negromanti, se la vita viene prolungata all'infinito o "
+"se essa viene solo allungata. Anche se fosse solo allungata sarebbe solo un "
+"piccolo tributo in confronto alla soddisfazione di aver ottenuto tale "
+"scopo.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Cavalcatore d'ossa"
 
 #: Extended_Era_xtra_1.2/units/standard/Undead_Skele_Chocobone.cfg:20
 msgid ""
@@ -623,10 +810,13 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Cavalcando le ossa di grossi uccelli usati come trasporto da una perduta "
+"civiltà, i cavalcatori d'ossa possono muoversi più velocemente della maggior "
+"parte delle truppe di cavalleria."
 
 #: Extended_Era_xtra_1.2/units/standard/Wose.cfg:4
 msgid "Wose"
-msgstr ""
+msgstr "Wose"
 
 #: Extended_Era_xtra_1.2/units/standard/Wose.cfg:22
 msgid ""
@@ -643,6 +833,18 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Anche gli elfi hanno visto raramente i wose, un tipo di creatura di cui si "
+"sa davvero poco. Il maggior numero di informazioni proviene dagli elfi; "
+"sanno che queste creature non discendono dagli alberi, nonostante la loro "
+"somiglianza, e sanno che un wose è più legato degli stessi elfi al mondo "
+"magico, ma in un modo differente. Le loro attività e le loro motivazioni "
+"sono sconosciute, anche se molti hanno avanzato l'ovvia teoria che essi "
+"siano i guardiani dell'ambiente naturale.\n"
+"\n"
+"I wose sono solitamente pacifici ma possiedono una grande forza. Tuttavia "
+"non sono abituati a muoversi e sono molto lenti.\n"
+"\n"
+"Note speciali:"
 
 #~ msgid "allied leadership"
 #~ msgstr "comando degli alleati"
